@@ -1,0 +1,26 @@
+10559295 text
+2105562 heading
+1027488 image
+ 352238 links
+ 106609 quote
+  98498 aside
+  65202 video
+  33806 elava-arkisto-video
+  22749 audio
+  16158 external-content
+  10693 undefined
+   8450 some-posting
+   7431 gallery
+   6531 highlight
+   3817 flockler
+   3200 table
+   1622 bullet-list
+   1201 youtube-video
+    506 image-pair
+    324 numbered-list
+    236 timeline
+    203 top-list
+    140 survey
+    105 slideshow
+     82 vimeo-video
+     25 facebook-video

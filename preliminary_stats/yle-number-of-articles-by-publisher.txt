@@ -1,0 +1,15 @@
+ 762932 Yle Uutiset
+ 366790 svenska-nyheter
+ 224414 Yle Urheilu
+  58648 svenska-sport
+  30618 Yle News
+  26228 Yle Novosti
+  23941 yle-aihe
+  16721 Yle Asia
+  15542 Yle Sapmi
+   5313 Yle Kulttuuri ja viihde
+   2797 YleX
+   2296 Yle Selkouutiset
+    280 Yle Uudizet karjalakse
+    278 Yle Uutisluokka
+
