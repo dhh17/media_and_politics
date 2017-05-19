@@ -1,0 +1,26 @@
+etnisyys
+feminismi
+häirintä
+ikä
+kansalaisuus
+kieli
+yhteiskuntaluokka
+mielipide
+miesliike
+perhesuhde
+seksuaalisuus
+sukupuoli
+syntyperä
+syrjintä
+alueellinen
+miehet
+naiset
+poliittinen toiminta
+terveydentila
+tulot
+tulotaso
+uskonto
+vakaumus
+vammaisuus
+varallisuus
+rotu
