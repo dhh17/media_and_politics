@@ -71,6 +71,12 @@ gathered <- gather(aggregated_relative, topic, count, -year)
 
 #ggplot(data=gathered, aes(x=year, y=count, group=topic, colour=topic)) + geom_line()
 ggplot(data=gathered, aes(x=year, y=count, group=topic, fill=topic)) +
-       geom_area(position="fill") + ggtitle("Relative media visibility of energy topics (Yle)") +
-       labs(x="Year", y="Proportion of mentions")
+       geom_area(position="fill") +
+       #ggtitle("Relative media visibility of energy topics (Yle)") +
+       labs(x="Year", y="Proportion of mentions") +
+       theme(#plot.title = element_text(size = 50, face = "bold"),
+             legend.text = element_text(size=32),
+             legend.title = element_blank(),
+             axis.title = element_text(size=32),
+             axis.text = element_text(size=16))
 #ggplot(data=gathered, aes(x=year, y=count, group=topic, fill=colours)) + geom_area(position="fill")
