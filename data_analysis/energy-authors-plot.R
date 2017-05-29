@@ -1,6 +1,6 @@
-library(tidyr)
-library(dplyr)
+require(tidyr)
 require(plyr)
+require(dplyr)
 
 #setwd("~/dhh17/data")
 
