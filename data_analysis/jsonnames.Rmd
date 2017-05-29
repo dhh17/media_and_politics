@@ -1,0 +1,72 @@
+---
+title: "R Notebook for figuring out people associated with a person or topic"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse,tidyjson,jsonlite,arules)
+```
+
+```{r}
+foo <- data.frame()
+stream_in(file("~/Downloads/fool.json","r"), pagesize=1, handler = function(ijson) {
+  if (length(ijson)) {
+    ids <- data.frame(document.id = seq.int(length(foo$document.id) + 1, length(foo$document.id) + length(ijson)))
+    ijson <- tbl_json(ids, ijson)
+    json <- ijson %>% as.tbl_json %>% 
+      enter_object("analyzedText") %>%
+      gather_array("paragraphI") %>%
+      gather_array("wordI") %>%
+      spread_values(word=jstring("word")) %>%
+      enter_object("analysis") %>% 
+      gather_array("analysisI") %>% 
+      spread_values(weight=jnumber("weight"))
+                
+    json2 <- json %>% enter_object("globalTags") %>% gather_array("globalTagI") %>% enter_object("BEST_MATCH")
+
+    json3 <- json %>%          
+      enter_object("wordParts") %>%
+      gather_array("wordPartI") %>%
+      spread_values(lemma=jstring("lemma")) %>%
+      enter_object("tags") %>%
+      gather_array("tagI") %>%
+      enter_object("PROPER") %>%
+      gather_array("properI") %>%
+      append_values_string("proper")
+    
+    json4 <- json2 %>% 
+      inner_join(json3, by = c("document.id", "paragraphI", "wordI", "word", "analysisI", "weight")) %>% 
+      filter(proper %in% c("FIRST","LAST")) %>% 
+      select(proper,document.id,paragraphI,wordI,lemma,proper)
+
+    final <- json4 %>% mutate(name = paste0(lag(lemma)," ",lemma)) %>% filter(((lag(proper) == "LAST" & proper == "FIRST") | (lag(proper) == "FIRST" & proper == "LAST")) & lag(document.id) == document.id & lag(paragraphI) == paragraphI & lag(wordI) + 2 == wordI) %>% select(name,document.id,paragraphI,wordI)
+    foo <<- foo %>% rbind(final)
+  }
+}, simplifyVector = FALSE)
+```
+ 
+```{r}
+iklocs <- foo %>% left_join(foo %>% filter(name=="Ilkka Kanerva") %>% mutate(IKparagraphI = paragraphI,IKwordI=wordI) %>% select(-name,-paragraphI,-wordI), by = "document.id") %>% group_by(name,document.id,paragraphI,wordI) %>% summarize(md = min(abs(paragraphI-IKparagraphI),na.rm=TRUE))
+test2 <- iklocs %>% group_by(name) %>% summarize(n=n(),md=mean(md)) %>% filter(n>2) %>% arrange(md,desc(n))
+test2 %>% write.csv("~/Downloads/Kanerva-co-names.txt",row.names=FALSE)
+```
+
+```{r}
+itemsets <- (foo %>% group_by(document.id) %>% summarize(set=list(unique(name))) %>% select(-document.id))$set
+```
+
+```{r}
+freqset <- eclat(itemsets, parameter=list(target="maximally frequent itemsets",minlen=3,supp=0.003))
+```
+```{r}
+inspect(head(freqset, n=20, by = "support"))
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file).

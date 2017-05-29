@@ -1,0 +1,718 @@
+id,name,Eduskuntaryhmä,Vaalipiiri,Syntymäaika,Edustajatoimen.tila,Sukupuoli
+8,Outi Alanko-Kahiluoto,vihr,Helsingin vaalipiiri,14.38.46,nyk,female
+12,Li Andersson,vas,Varsinais-Suomen vaalipiiri,13.38.07,nyk,female
+13,Sirkka-Liisa Anttila,kesk,Hämeen vaalipiiri,20.44.23,nyk,female
+20,Anne Berner,kesk,Uudenmaan vaalipiiri,16.33.44,nyk,female
+21,Eva Biaudet,r,Helsingin vaalipiiri,27.34.41,nyk,female
+28,Ritva Elomaa,ps,Varsinais-Suomen vaalipiiri,16.39.35,nyk,female
+29,Eeva-Johanna Eloranta,sd,Varsinais-Suomen vaalipiiri,04.35.46,nyk,female
+30,Tiina Elovaara,ps,Pirkanmaan vaalipiiri,11.45.06,nyk,female
+31,Sari Essayah,kd,Savo-Karjalan vaalipiiri,21.34.47,nyk,female
+32,Maarit Feldt-Ranta,sd,Uudenmaan vaalipiiri,26.36.48,nyk,female
+33,Tarja Filatov,sd,Hämeen vaalipiiri,09.40.43,nyk,female
+36,Sanni Grahn-Laasonen,kok,Hämeen vaalipiiri,04.38.03,nyk,female
+38,Maria Guzenina,sd,Uudenmaan vaalipiiri,12.33.49,nyk,female
+41,Susanna Haapoja,NA,Vaasan vaalipiiri,13.43.46,ent,female
+42,Tuula Haatainen,sd,Helsingin vaalipiiri,11.34.40,nyk,female
+49,Hanna Halmeenpää,vihr,Oulun vaalipiiri,07.35.56,nyk,female
+53,Satu Hassi,vihr,Pirkanmaan vaalipiiri,03.38.31,nyk,female
+57,Hannakaisa Heikkinen,kesk,Savo-Karjalan vaalipiiri,07.36.54,nyk,female
+62,Anna-Maja Henriksson,r,Vaasan vaalipiiri,07.33.44,nyk,female
+69,Laura Huhtasaari,ps,Satakunnan vaalipiiri,30.35.59,nyk,female
+70,Susanna Huovinen,sd,Keski-Suomen vaalipiiri,10.38.52,nyk,female
+75,Katja Hänninen,vas,Oulun vaalipiiri,26.34.00,nyk,female
+81,Marisanna Jarva,kesk,Oulun vaalipiiri,11.41.01,nyk,female
+89,Arja Juvonen,ps,Uudenmaan vaalipiiri,08.44.47,nyk,female
+90,Heli Järvinen,vihr,Kaakkois-Suomen vaalipiiri,31.37.43,nyk,female
+99,Anne Kalmari,kesk,Keski-Suomen vaalipiiri,20.36.48,nyk,female
+107,Emma Kari,vihr,Helsingin vaalipiiri,15.38.03,nyk,female
+109,Johanna Karimäki,vihr,Uudenmaan vaalipiiri,20.35.53,nyk,female
+114,Elsi Katainen,kesk,Savo-Karjalan vaalipiiri,17.44.46,nyk,female
+123,Anneli Kiljunen,sd,Kaakkois-Suomen vaalipiiri,17.41.37,nyk,female
+125,Krista Kiuru,sd,Satakunnan vaalipiiri,05.40.54,nyk,female
+132,Anna Kontula,vas,Pirkanmaan vaalipiiri,30.35.57,nyk,female
+138,Susanna Koski,kok,Vaasan vaalipiiri,22.36.05,nyk,female
+143,Hanna Kosonen,kesk,Kaakkois-Suomen vaalipiiri,27.34.56,nyk,female
+146,Katri Kulmuni,kesk,Lapin vaalipiiri,04.42.07,nyk,female
+153,Suna Kymäläinen,sd,Kaakkois-Suomen vaalipiiri,15.41.56,nyk,female
+162,Jaana Laitinen-Pesola,kok,Satakunnan vaalipiiri,06.41.38,nyk,female
+163,Annika Lapintie,vas,Varsinais-Suomen vaalipiiri,18.35.35,nyk,female
+167,Sanna Lauslahti,kok,Uudenmaan vaalipiiri,07.36.46,nyk,female
+172,Elina Lepomäki,kok,Uudenmaan vaalipiiri,23.43.01,nyk,female
+179,Maria Lohela,ps,Varsinais-Suomen vaalipiiri,11.38.58,nyk,female
+181,Anne Louhelainen,ps,Hämeen vaalipiiri,08.33.45,nyk,female
+183,Eeva-Maria Maijala,kesk,Lapin vaalipiiri,23.44.47,nyk,female
+185,Sanna Marin,sd,Pirkanmaan vaalipiiri,16.44.05,nyk,female
+187,Pirkko Mattila,ps,Oulun vaalipiiri,02.36.44,nyk,female
+188,Leena Meri,ps,Uudenmaan vaalipiiri,12.36.48,nyk,female
+190,Krista Mikkonen,vihr,Savo-Karjalan vaalipiiri,15.43.52,nyk,female
+191,Silvia Modig,vas,Helsingin vaalipiiri,08.39.56,nyk,female
+192,Sari Multala,kok,Uudenmaan vaalipiiri,05.39.58,nyk,female
+195,Riitta Myller,sd,Savo-Karjalan vaalipiiri,12.39.36,nyk,female
+199,Outi Mäkelä,kok,Uudenmaan vaalipiiri,16.40.54,nyk,female
+201,Lea Mäkipää,ps,Pirkanmaan vaalipiiri,06.37.27,nyk,female
+202,Merja Mäkisalo-Ropponen,sd,Savo-Karjalan vaalipiiri,20.36.38,nyk,female
+204,Hanna Mäntylä,ps,Lapin vaalipiiri,19.41.54,nyk,female
+216,Mikaela Nylander,r,Uudenmaan vaalipiiri,27.35.50,nyk,female
+220,Johanna Ojala-Niemelä,sd,Lapin vaalipiiri,01.42.54,nyk,female
+226,Sirpa Paatero,sd,Kaakkois-Suomen vaalipiiri,09.41.44,nyk,female
+231,Aila Paloniemi,kesk,Keski-Suomen vaalipiiri,28.33.36,nyk,female
+233,Ulla Parviainen,kesk,Oulun vaalipiiri,11.36.42,nyk,female
+235,Aino-Kaisa Pekonen,vas,Hämeen vaalipiiri,24.33.59,nyk,female
+236,Jaana Pelkonen,kok,Helsingin vaalipiiri,27.33.57,nyk,female
+249,Sari Raassina,kok,Savo-Karjalan vaalipiiri,19.36.43,nyk,female
+256,Nasima Razmyar,sd,Helsingin vaalipiiri,13.42.04,nyk,female
+258,Veronica Rehn-Kivi,r,Uudenmaan vaalipiiri,10.34.36,nyk,female
+262,Paula Risikko,kok,Vaasan vaalipiiri,04.38.40,nyk,female
+266,Veera Ruoho,ps,Uudenmaan vaalipiiri,04.40.49,nyk,female
+267,Pirkko Ruohonen-Lerner,ps,Uudenmaan vaalipiiri,06.34.37,kesk,female
+270,Päivi Räsänen,kd,Hämeen vaalipiiri,19.44.39,nyk,female
+273,Annika Saarikko,kesk,Varsinais-Suomen vaalipiiri,10.44.03,nyk,female
+278,Kristiina Salonen,sd,Satakunnan vaalipiiri,07.38.57,nyk,female
+281,Hanna Sarkkinen,vas,Oulun vaalipiiri,18.37.08,nyk,female
+282,Sari Sarkomaa,kok,Helsingin vaalipiiri,24.41.45,nyk,female
+292,Saara-Sofia Sirén,kok,Varsinais-Suomen vaalipiiri,10.40.06,nyk,female
+305,Satu Taavitsainen,sd,Kaakkois-Suomen vaalipiiri,06.33.57,nyk,female
+307,Katja Taimela,sd,Varsinais-Suomen vaalipiiri,23.43.54,nyk,female
+312,Mari-Leena Talvitie,kok,Oulun vaalipiiri,11.39.00,nyk,female
+313,Sari Tanus,kd,Pirkanmaan vaalipiiri,22.34.44,nyk,female
+322,Lenita Toivakka,kok,Kaakkois-Suomen vaalipiiri,28.41.41,nyk,female
+324,Maria Tolppanen,ps,Vaasan vaalipiiri,24.43.32,nyk,female
+329,Tytti Tuppurainen,sd,Oulun vaalipiiri,18.34.56,nyk,female
+337,Jutta Urpilainen,sd,Vaasan vaalipiiri,04.40.55,nyk,female
+348,Mirja Vehkaperä,kesk,Oulun vaalipiiri,06.36.56,nyk,female
+349,Anu Vehviläinen,kesk,Savo-Karjalan vaalipiiri,09.41.43,nyk,female
+352,Pia Viitanen,sd,Pirkanmaan vaalipiiri,07.36.47,nyk,female
+353,Sofia Vikman,kok,Pirkanmaan vaalipiiri,12.38.03,nyk,female
+359,Anne-Mari Virolainen,kok,Varsinais-Suomen vaalipiiri,05.44.45,nyk,female
+1,Touko Aalto,vihr,Keski-Suomen vaalipiiri,01.37.04,nyk,male
+2,Anders Adlercreutz,r,Uudenmaan vaalipiiri,26.36.50,nyk,male
+7,Olavi Ala-Nissilä,kesk,Varsinais-Suomen vaalipiiri,02.40.29,nyk,male
+9,Mikko Alatalo,kesk,Pirkanmaan vaalipiiri,01.37.31,nyk,male
+14,Paavo Arhinmäki,vas,Helsingin vaalipiiri,13.44.56,nyk,male
+22,Thomas Blomqvist,r,Uudenmaan vaalipiiri,15.33.45,nyk,male
+25,Juho Eerola,ps,Kaakkois-Suomen vaalipiiri,24.34.55,nyk,male
+26,Markku Eestilä,kok,Savo-Karjalan vaalipiiri,23.39.36,nyk,male
+27,Simon Elo,ps,Uudenmaan vaalipiiri,08.40.06,nyk,male
+37,Jukka Gustafsson,sd,Pirkanmaan vaalipiiri,02.33.27,nyk,male
+43,Pekka Haavisto,vihr,Helsingin vaalipiiri,23.35.38,nyk,male
+44,Carl Haglund,NA,Uudenmaan vaalipiiri,29.35.59,ent,male
+45,Pertti Hakanen,kesk,Pirkanmaan vaalipiiri,08.36.49,nyk,male
+46,Teuvo Hakkarainen,ps,Keski-Suomen vaalipiiri,12.36.40,nyk,male
+50,Timo Harakka,sd,Uudenmaan vaalipiiri,31.44.42,nyk,male
+51,Harry Harkimo,kok,Uudenmaan vaalipiiri,02.43.33,nyk,male
+55,Lasse Hautala,kesk,Vaasan vaalipiiri,22.33.43,nyk,male
+58,Timo Heinonen,kok,Hämeen vaalipiiri,15.34.55,nyk,male
+59,Eero Heinäluoma,sd,Helsingin vaalipiiri,04.39.35,nyk,male
+64,James Hirvisaari,NA,Hämeen vaalipiiri,02.39.40,ent,male
+66,Reijo Hongisto,ps,Vaasan vaalipiiri,16.36.42,nyk,male
+67,Petri Honkonen,kesk,Keski-Suomen vaalipiiri,29.40.07,nyk,male
+68,Hannu Hoskonen,kesk,Savo-Karjalan vaalipiiri,23.40.37,nyk,male
+73,Antti Häkkänen,kok,Kaakkois-Suomen vaalipiiri,16.34.05,nyk,male
+77,Lauri Ihalainen,sd,Keski-Suomen vaalipiiri,14.37.27,nyk,male
+78,Olli Immonen,r,Oulun vaalipiiri,18.35.06,nyk,male
+80,Ari Jalonen,ps,Satakunnan vaalipiiri,05.44.54,nyk,male
+82,Harri Jaskari,kok,Pirkanmaan vaalipiiri,26.35.44,nyk,male
+83,Kalle Jokinen,kok,Hämeen vaalipiiri,07.40.41,nyk,male
+85,Kauko Juhantalo,kesk,Satakunnan vaalipiiri,28.36.22,nyk,male
+93,Antti Kaikkonen,kesk,Uudenmaan vaalipiiri,14.34.54,nyk,male
+94,Timo Kalli,kesk,Satakunnan vaalipiiri,22.34.27,nyk,male
+101,Ilkka Kanerva,kok,Varsinais-Suomen vaalipiiri,28.33.28,nyk,male
+103,Toimi Kankaanniemi,ps,Keski-Suomen vaalipiiri,26.34.30,nyk,male
+104,Ilkka Kantola,sd,Varsinais-Suomen vaalipiiri,17.35.37,nyk,male
+108,Mika Kari,sd,Hämeen vaalipiiri,19.40.47,nyk,male
+113,Jyrki Kasvi,vihr,Uudenmaan vaalipiiri,06.33.44,nyk,male
+121,Niilo Keränen,kesk,Oulun vaalipiiri,19.37.30,nyk,male
+126,Pauli Kiuru,kok,Pirkanmaan vaalipiiri,08.44.42,nyk,male
+127,Kimmo Kivelä,ps,Savo-Karjalan vaalipiiri,05.42.41,nyk,male
+129,Esko Kiviranta,kesk,Varsinais-Suomen vaalipiiri,02.41.30,nyk,male
+133,Jukka Kopra,kok,Kaakkois-Suomen vaalipiiri,11.34.47,nyk,male
+135,Timo V. Korhonen,kesk,Oulun vaalipiiri,23.41.39,nyk,male
+145,Kari Kulmala,ps,Savo-Karjalan vaalipiiri,21.36.45,nyk,male
+149,Antti Kurvinen,kesk,Vaasan vaalipiiri,14.40.06,nyk,male
+154,Lauri Kähkönen,NA,Pohjois-Karjalan vaalipiiri,19.34.27,ent,male
+157,Mikko Kärnä,kesk,Lapin vaalipiiri,08.45.00,nyk,male
+158,Seppo Kääriäinen,kesk,Savo-Karjalan vaalipiiri,29.35.28,nyk,male
+165,Antero Laukkanen,kd,Uudenmaan vaalipiiri,30.37.38,nyk,male
+169,Eero Lehti,kok,Uudenmaan vaalipiiri,23.40.24,nyk,male
+170,Rami Lehto,ps,Hämeen vaalipiiri,15.35.53,nyk,male
+173,Jari Leppä,kesk,Kaakkois-Suomen vaalipiiri,24.38.39,nyk,male
+175,Jari Lindström,ps,Kaakkois-Suomen vaalipiiri,28.38.45,nyk,male
+176,Antti Lindtman,sd,Uudenmaan vaalipiiri,11.41.02,nyk,male
+177,Mika Lintilä,kesk,Vaasan vaalipiiri,15.36.46,nyk,male
+180,Markus Lohi,kesk,Lapin vaalipiiri,16.38.52,nyk,male
+182,Mats Löfström,r,Ahvenanmaan maakunnan vaalipiiri,27.43.03,nyk,male
+193,Markus Mustajärvi,vas,Lapin vaalipiiri,24.34.43,nyk,male
+194,Kai Mykkänen,kok,Uudenmaan vaalipiiri,31.39.59,nyk,male
+196,Jari Myllykoski,vas,Satakunnan vaalipiiri,27.38.39,nyk,male
+197,Jani Mäkelä,ps,Kaakkois-Suomen vaalipiiri,21.42.56,nyk,male
+205,Markku Mäntymaa,NA,Vaasan vaalipiiri,17.36.34,ent,male
+206,Martti Mölsä,ps,Pirkanmaan vaalipiiri,02.36.32,nyk,male
+209,Mika Niikko,ps,Uudenmaan vaalipiiri,20.33.47,nyk,male
+210,Jussi Niinistö,ps,Uudenmaan vaalipiiri,27.42.50,nyk,male
+212,Ville Niinistö,vihr,Varsinais-Suomen vaalipiiri,30.39.56,nyk,male
+213,Håkan Nordman,NA,Vaasan vaalipiiri,08.39.24,ent,male
+215,Ilmari Nurminen,sd,Pirkanmaan vaalipiiri,24.35.11,nyk,male
+217,Mats Nylund,r,Vaasan vaalipiiri,01.40.44,nyk,male
+219,Pentti Oinonen,ps,Savo-Karjalan vaalipiiri,11.38.32,nyk,male
+223,Petteri Orpo,kok,Varsinais-Suomen vaalipiiri,03.43.49,nyk,male
+227,Tom Packalén,ps,Helsingin vaalipiiri,05.42.49,nyk,male
+228,Markku Pakkanen,kesk,Kaakkois-Suomen vaalipiiri,31.33.40,nyk,male
+232,Olli-Poika Parviainen,vihr,Pirkanmaan vaalipiiri,20.42.00,nyk,male
+234,Mauri Pekkarinen,kesk,Keski-Suomen vaalipiiri,06.42.27,nyk,male
+243,Arto Pirttilahti,kesk,Pirkanmaan vaalipiiri,04.36.43,nyk,male
+246,Pekka Puska,kesk,Helsingin vaalipiiri,18.44.25,nyk,male
+247,Tuomo Puumala,kesk,Vaasan vaalipiiri,03.37.02,nyk,male
+248,Juha Pylväs,kesk,Oulun vaalipiiri,24.35.51,nyk,male
+250,Mika Raatikainen,ps,Helsingin vaalipiiri,07.43.41,nyk,male
+253,Antti Rantakangas,kesk,Oulun vaalipiiri,28.34.44,nyk,male
+259,Juha Rehula,kesk,Hämeen vaalipiiri,03.38.43,nyk,male
+261,Antti Rinne,sd,Uudenmaan vaalipiiri,03.43.42,nyk,male
+263,Jari Ronkainen,ps,Hämeen vaalipiiri,28.37.52,nyk,male
+264,Markku Rossi,kesk,Savo-Karjalan vaalipiiri,05.35.36,nyk,male
+268,Wille Rydman,kok,Helsingin vaalipiiri,02.34.06,nyk,male
+269,Joona Räsänen,sd,Uudenmaan vaalipiiri,24.35.07,nyk,male
+272,Vesa-Matti Saarakkala,ps,Vaasan vaalipiiri,24.36.04,nyk,male
+275,Mauri Salo,NA,Varsinais-Suomen vaalipiiri,02.40.26,ent,male
+277,Pertti Salolainen,kok,Helsingin vaalipiiri,19.42.20,nyk,male
+284,Arto Satonen,kok,Pirkanmaan vaalipiiri,20.42.46,nyk,male
+285,Sami Savio,ps,Pirkanmaan vaalipiiri,23.41.55,nyk,male
+286,Mikko Savola,kesk,Vaasan vaalipiiri,29.44.01,nyk,male
+287,Matti Semi,vas,Savo-Karjalan vaalipiiri,26.33.37,nyk,male
+291,Juha Sipilä,kesk,Oulun vaalipiiri,25.36.41,nyk,male
+294,Jouko Skinnari,NA,Hämeen vaalipiiri,12.40.26,ent,male
+295,Ville Skinnari,sd,Hämeen vaalipiiri,21.34.54,nyk,male
+296,Timo Soini,ps,Uudenmaan vaalipiiri,30.37.42,nyk,male
+299,Joakim Strand,r,Vaasan vaalipiiri,02.41.02,nyk,male
+300,Alexander Stubb,kok,Uudenmaan vaalipiiri,01.36.48,nyk,male
+302,Eero Suutari,kok,Oulun vaalipiiri,27.44.36,nyk,male
+306,Tommy Tabermann,NA,Uudenmaan vaalipiiri,03.44.27,ent,male
+310,Martti Talja,kesk,Hämeen vaalipiiri,29.39.31,nyk,male
+314,Ville Tavio,ps,Varsinais-Suomen vaalipiiri,25.39.04,nyk,male
+316,Sampo Terho,ps,Helsingin vaalipiiri,20.41.57,nyk,male
+319,Kimmo Tiilikainen,kesk,Kaakkois-Suomen vaalipiiri,17.40.46,nyk,male
+323,Jani Toivola,vihr,Uudenmaan vaalipiiri,27.43.57,nyk,male
+325,Kari Tolvanen,kok,Uudenmaan vaalipiiri,24.39.41,nyk,male
+326,Ari Torniainen,kesk,Kaakkois-Suomen vaalipiiri,15.35.36,nyk,male
+328,Erkki Tuomioja,sd,Helsingin vaalipiiri,01.39.26,nyk,male
+330,Kaj Turunen,ps,Kaakkois-Suomen vaalipiiri,27.44.40,nyk,male
+333,Tapani Tölli,kesk,Oulun vaalipiiri,13.38.31,nyk,male
+335,Kari Uotila,vas,Uudenmaan vaalipiiri,04.33.35,nyk,male
+340,Harry Wallin,sd,Vaasan vaalipiiri,23.37.33,nyk,male
+341,Stefan Wallin,r,Varsinais-Suomen vaalipiiri,01.38.47,nyk,male
+342,Sinuhe Wallinheimo,kok,Keski-Suomen vaalipiiri,09.35.52,nyk,male
+343,Unto Valpas,NA,Oulun vaalipiiri,04.42.24,ent,male
+344,Matti Vanhanen,kesk,Uudenmaan vaalipiiri,04.43.35,nyk,male
+346,Antero Vartia,vihr,Helsingin vaalipiiri,22.41.00,nyk,male
+347,Juhana Vartiainen,kok,Helsingin vaalipiiri,28.37.38,nyk,male
+354,Eerikki Viljanen,kesk,Uudenmaan vaalipiiri,21.36.55,nyk,male
+364,Ville Vähämäki,ps,Oulun vaalipiiri,30.35.59,nyk,male
+365,Paavo Väyrynen,kesk,Lapin vaalipiiri,02.41.26,kesk,male
+368,Ozan Yanar,vihr,Helsingin vaalipiiri,03.38.07,nyk,male
+370,Ben Zyskowicz,kok,Helsingin vaalipiiri,24.37.34,nyk,male
+371,Peter Östman,kd,Vaasan vaalipiiri,16.44.41,nyk,male
+3,Matti Ahde,sd,Oulun vaalipiiri,23.44.25,ent,male
+4,Esko Ahonen,kesk,Vaasan vaalipiiri,13.38.35,ent,male
+5,Sauli Ahvenjärvi,kd,Satakunnan vaalipiiri,18.40.37,ent,male
+6,Eero Akaan-Penttilä,kok,Uudenmaan vaalipiiri,17.36.23,ent,male
+10,Claes Andersson,vas,Uudenmaan vaalipiiri,30.37.17,ent,male
+15,Marko Asell,sd,Pirkanmaan vaalipiiri,08.37.50,ent,male
+17,Risto Autio,kesk,Hämeen vaalipiiri,22.40.34,ent,male
+18,Heikki Autto,kok,Lapin vaalipiiri,23.41.04,ent,male
+19,Jouni Backman,sd,Etelä-Savon vaalipiiri,30.35.39,ent,male
+24,Jörn Donner,r,Helsingin vaalipiiri,05.34.13,ent,male
+39,Lars Erik Gästgivars,r,Vaasan vaalipiiri,28.37.26,ent,male
+47,Juha Hakola,kok,Helsingin vaalipiiri,24.40.47,ent,male
+48,Jussi Halla-aho,ps,Helsingin vaalipiiri,27.36.51,ent,male
+56,Lauri Heikkilä,ps,Varsinais-Suomen vaalipiiri,24.38.37,ent,male
+60,Pertti Hemmilä,kok,Varsinais-Suomen vaalipiiri,24.40.35,ent,male
+74,Jyri Häkämies,kok,Kymen vaalipiiri,30.40.41,ent,male
+76,Tuomo Hänninen,kesk,Oulun vaalipiiri,09.36.34,ent,male
+84,Anssi Joutsenlahti,ps,Satakunnan vaalipiiri,17.41.23,ent,male
+86,Mikael Jungner,sd,Uudenmaan vaalipiiri,20.36.45,ent,male
+88,Timo Juurikkala,vihr,Uudenmaan vaalipiiri,07.37.38,ent,male
+91,Jouko Jääskeläinen,kd,Uudenmaan vaalipiiri,18.35.32,ent,male
+92,Pietari Jääskeläinen,ps,Uudenmaan vaalipiiri,20.38.27,ent,male
+95,Reijo Kallio,sd,Satakunnan vaalipiiri,08.34.31,ent,male
+96,Antti Kalliomäki,sd,Uudenmaan vaalipiiri,08.33.27,ent,male
+97,Risto Kalliorinne,vas,Oulun vaalipiiri,11.42.51,ent,male
+98,Bjarne Kallis,kd,Vaasan vaalipiiri,21.35.25,ent,male
+100,Oiva Kaltiokumpu,kesk,Satakunnan vaalipiiri,25.41.30,ent,male
+102,Matti Kangas,vas,Keski-Suomen vaalipiiri,25.43.24,ent,male
+110,Kyösti Karjula,kesk,Oulun vaalipiiri,08.37.32,ent,male
+115,Jyrki Katainen,kok,Uudenmaan vaalipiiri,14.42.51,ent,male
+116,Sampsa Kataja,kok,Satakunnan vaalipiiri,03.36.52,ent,male
+118,Timo Kaunisto,kesk,Varsinais-Suomen vaalipiiri,27.33.43,ent,male
+119,Matti Kauppila,vas,Hämeen vaalipiiri,23.40.25,ent,male
+122,Pentti Kettunen,ps,Oulun vaalipiiri,25.34.22,ent,male
+124,Kimmo Kiljunen,sd,Uudenmaan vaalipiiri,13.38.31,ent,male
+130,Osmo Kokko,ps,Pohjois-Karjalan vaalipiiri,17.43.34,ent,male
+134,Martti Korhonen,vas,Oulun vaalipiiri,27.34.33,ent,male
+136,Juha Korkeaoja,kesk,Satakunnan vaalipiiri,11.33.30,ent,male
+139,Valto Koski,sd,Kymen vaalipiiri,23.33.19,ent,male
+140,Jari Koskinen,kok,Hämeen vaalipiiri,11.38.40,ent,male
+141,Johannes Koskinen,sd,Hämeen vaalipiiri,10.44.34,ent,male
+144,Risto Kuisma,sd,Uudenmaan vaalipiiri,01.33.27,ent,male
+148,Mikko Kuoppa,vas,Pirkanmaan vaalipiiri,10.41.24,ent,male
+150,Esko Kurvinen,kok,Oulun vaalipiiri,06.42.32,ent,male
+155,Kari Kärkkäinen,kd,Kuopion vaalipiiri,29.33.50,ent,male
+156,Jukka Kärnä,sd,Kymen vaalipiiri,14.43.35,ent,male
+159,Jaakko Laakso,vas,Uudenmaan vaalipiiri,20.37.28,ent,male
+160,Esa Lahtela,sd,Pohjois-Karjalan vaalipiiri,30.36.29,ent,male
+161,Reijo Laitinen,sd,Keski-Suomen vaalipiiri,20.34.30,ent,male
+164,Jari Larikka,kok,Kymen vaalipiiri,09.33.45,ent,male
+166,Markku Laukkanen,kesk,Kymen vaalipiiri,20.44.30,ent,male
+168,Jouko Laxell,kok,Varsinais-Suomen vaalipiiri,15.41.27,ent,male
+184,Hannes Manninen,kesk,Lapin vaalipiiri,20.44.26,ent,male
+189,Juha Mieto,kesk,Vaasan vaalipiiri,20.43.29,ent,male
+198,Jukka Mäkelä,kok,Uudenmaan vaalipiiri,07.39.40,ent,male
+200,Tapani Mäkinen,kok,Uudenmaan vaalipiiri,19.35.45,ent,male
+203,Lasse Männistö,kok,Helsingin vaalipiiri,16.36.02,ent,male
+208,Olli Nepponen,kok,Mikkelin vaalipiiri,22.41.20,ent,male
+211,Sauli Niinistö,kok,Uudenmaan vaalipiiri,24.40.28,ent,male
+218,Lauri Oinonen,kesk,Keski-Suomen vaalipiiri,10.40.27,ent,male
+222,Heikki A. Ollila,kok,Pirkanmaan vaalipiiri,26.37.30,ent,male
+224,Reijo Paajanen,kok,Kymen vaalipiiri,12.38.30,ent,male
+230,Mikael Palola,kok,Keski-Suomen vaalipiiri,13.33.56,ent,male
+239,Klaus Pentti,kesk,Pirkanmaan vaalipiiri,17.35.23,ent,male
+241,Petri Pihlajaniemi,kok,Vaasan vaalipiiri,23.40.48,ent,male
+242,Raimo Piirainen,sd,Oulun vaalipiiri,22.44.32,ent,male
+244,Veijo Puhjo,vas,Satakunnan vaalipiiri,26.38.28,ent,male
+245,Erkki Pulliainen,vihr,Oulun vaalipiiri,23.38.18,ent,male
+251,Lyly Rajala,kok,Oulun vaalipiiri,21.36.31,ent,male
+252,Kari Rajamäki,sd,Kuopion vaalipiiri,15.42.28,ent,male
+255,Pekka Ravi,kok,Pohjois-Karjalan vaalipiiri,26.43.29,ent,male
+257,Olli Rehn,kesk,Helsingin vaalipiiri,31.35.42,ent,male
+260,Eero Reijonen,kesk,Pohjois-Karjalan vaalipiiri,10.41.27,ent,male
+265,Simo Rundgren,kesk,Lapin vaalipiiri,28.38.33,ent,male
+271,Tero Rönni,sd,Pirkanmaan vaalipiiri,03.35.34,ent,male
+274,Matti Saarinen,sd,Uudenmaan vaalipiiri,16.38.27,ent,male
+276,Petri Salo,kok,Vaasan vaalipiiri,18.42.39,ent,male
+279,Pertti Salovaara,kesk,Pirkanmaan vaalipiiri,19.42.50,ent,male
+280,Janne Sankelo,kok,Vaasan vaalipiiri,01.33.47,ent,male
+283,Kimmo Sasi,kok,Pirkanmaan vaalipiiri,21.34.32,ent,male
+288,Janne Seurujärvi,kesk,Lapin vaalipiiri,15.37.55,ent,male
+297,Osmo Soininvaara,vihr,Helsingin vaalipiiri,02.41.31,ent,male
+298,Ismo Soukola,ps,Hämeen vaalipiiri,08.41.40,ent,male
+303,Seppo Särkiniemi,kesk,Uudenmaan vaalipiiri,11.36.37,ent,male
+304,Jacob Söderman,sd,Helsingin vaalipiiri,19.35.18,ent,male
+315,Esko-Juhani Tennilä,vas,Lapin vaalipiiri,10.42.27,ent,male
+321,Pentti Tiusanen,vas,Kymen vaalipiiri,06.35.29,ent,male
+327,Reijo Tossavainen,ps,Kymen vaalipiiri,13.43.28,ent,male
+331,Kauko Tuupainen,ps,Keski-Suomen vaalipiiri,08.37.20,ent,male
+332,Oras Tynkkynen,vihr,Pirkanmaan vaalipiiri,25.41.57,ent,male
+338,Markku Uusipaavalniemi,ps,Uudenmaan vaalipiiri,23.43.46,ent,male
+345,Jan Vapaavuori,kok,Helsingin vaalipiiri,03.36.45,ent,male
+355,Ilkka Viljanen,kok,Hämeen vaalipiiri,12.44.40,ent,male
+356,Pekka Vilkuna,kesk,Oulun vaalipiiri,20.36.29,ent,male
+357,Lasse Virén,kok,Uudenmaan vaalipiiri,22.39.29,ent,male
+360,Erkki Virtanen,vas,Pohjois-Savon vaalipiiri,15.40.32,ent,male
+361,Pertti Virtanen,ps,Pirkanmaan vaalipiiri,18.37.31,ent,male
+362,Raimo Vistbacka,ps,Vaasan vaalipiiri,19.42.25,ent,male
+363,Antti Vuolanne,sd,Satakunnan vaalipiiri,11.36.47,ent,male
+366,Juha Väätäinen,ps,Helsingin vaalipiiri,12.39.21,ent,male
+369,Jyrki Yrttiaho,vr,Varsinais-Suomen vaalipiiri,04.37.32,ent,male
+372,Markus Aaltonen,NA,NA,NA,NA,male
+373,Esko Aho,NA,NA,NA,NA,male
+374,Hannu Aho,NA,NA,NA,NA,male
+378,Juhani Alaranta,NA,NA,NA,NA,male
+379,Ele Alenius,NA,NA,NA,NA,male
+381,Esko Almgren,NA,NA,NA,NA,male
+385,Asko Apukka,NA,NA,NA,NA,male
+388,Aarno von Bell,NA,NA,NA,NA,male
+390,Ilkka-Christian Björklund,NA,NA,NA,NA,male
+391,Gustav Björkstrand,NA,NA,NA,NA,male
+392,Olavi Borg,NA,NA,NA,NA,male
+393,Klaus Bremer,NA,NA,NA,NA,male
+394,Arto Bryggare,NA,NA,NA,NA,male
+395,Kaj Bärlund,NA,NA,NA,NA,male
+399,Mikko Ekorre,NA,NA,NA,NA,male
+400,Mikko Elo,NA,NA,NA,NA,male
+401,Jan-Erik Enestam,NA,NA,NA,NA,male
+402,Ralf Friberg,NA,NA,NA,NA,male
+403,Nils-Anders Granvik,NA,NA,NA,NA,male
+404,Pekka Haarla,NA,NA,NA,NA,male
+406,Matti Hakala,NA,NA,NA,NA,male
+408,Matti Hannola,NA,NA,NA,NA,male
+409,Heikki Hasu,NA,NA,NA,NA,male
+410,Sauli Hautala,NA,NA,NA,NA,male
+411,Kauko Heikkinen,NA,NA,NA,NA,male
+412,Olli-Pekka Heinonen,NA,NA,NA,NA,male
+413,Klaus Hellberg,NA,NA,NA,NA,male
+414,Pähr-Einar Hellström,NA,NA,NA,NA,male
+415,Olli Helminen,NA,NA,NA,NA,male
+420,Matti Hokkanen,NA,NA,NA,NA,male
+421,Raimo Holopainen,NA,NA,NA,NA,male
+422,Joel Hongisto,NA,NA,NA,NA,male
+425,Jorma Huuhtanen,NA,NA,NA,NA,male
+426,Matti Huutola,NA,NA,NA,NA,male
+429,Kari Häkämies,NA,NA,NA,NA,male
+434,Raimo Ilaskivi,NA,NA,NA,NA,male
+435,Mikko Immonen,NA,NA,NA,NA,male
+437,Jaakko Itälä,NA,NA,NA,NA,male
+438,Ville Itälä,NA,NA,NA,NA,male
+439,Gunnar Jansson,NA,NA,NA,NA,male
+440,Roger Jansson,NA,NA,NA,NA,male
+441,Ilkka Joenpalo,NA,NA,NA,NA,male
+443,Pekka Jokinen,NA,NA,NA,NA,male
+444,Esko Jokiniemi,NA,NA,NA,NA,male
+448,Heikki Järvenpää,NA,NA,NA,NA,male
+449,Timo Järvilahti,NA,NA,NA,NA,male
+453,Markus Kainulainen,NA,NA,NA,NA,male
+454,Kai Kalima,NA,NA,NA,NA,male
+455,Seppo Kanerva,NA,NA,NA,NA,male
+456,Kari Kantalainen,NA,NA,NA,NA,male
+458,Tapio Karjalainen,NA,NA,NA,NA,male
+460,Juha Karpio,NA,NA,NA,NA,male
+465,Markku Kauppinen,NA,NA,NA,NA,male
+467,Matti Kautto,NA,NA,NA,NA,male
+469,Antero Kekkonen,NA,NA,NA,NA,male
+470,Hannu Kemppainen,NA,NA,NA,NA,male
+472,Rauno Kettunen,NA,NA,NA,NA,male
+473,Timo Kietäväinen,NA,NA,NA,NA,male
+474,Pekka Kivelä,NA,NA,NA,NA,male
+475,Kalevi Kivistö,NA,NA,NA,NA,male
+477,Sakari Knuuttila,NA,NA,NA,NA,male
+478,Leo Kohtala,NA,NA,NA,NA,male
+480,Juho Koivisto,NA,NA,NA,NA,male
+483,Armas Komi,NA,NA,NA,NA,male
+484,Ville Komsi,NA,NA,NA,NA,male
+486,J. Juhani Kortesalmi,NA,NA,NA,NA,male
+487,Timo E. Korva,NA,NA,NA,NA,male
+488,Markku Koski,NA,NA,NA,NA,male
+489,Heikki Koskinen,NA,NA,NA,NA,male
+491,Jorma Kukkonen,NA,NA,NA,NA,male
+492,Kalervo Kummola,NA,NA,NA,NA,male
+493,Pekka Kuosmanen,NA,NA,NA,NA,male
+494,Osmo Kurola,NA,NA,NA,NA,male
+497,Kalle Könkkölä,NA,NA,NA,NA,male
+500,Seppo Lahtela,NA,NA,NA,NA,male
+501,Jere Lahti,NA,NA,NA,NA,male
+502,Pentti Lahti-Nuuttila,NA,NA,NA,NA,male
+503,Matti Lahtinen,NA,NA,NA,NA,male
+504,Pertti Lahtinen,NA,NA,NA,NA,male
+505,Ensio Laine,NA,NA,NA,NA,male
+506,Jermu Laine,NA,NA,NA,NA,male
+507,Reino Laine,NA,NA,NA,NA,male
+509,Jarmo Laivoranta,NA,NA,NA,NA,male
+510,Kalevi Lamminen,NA,NA,NA,NA,male
+511,Arto Lampinen,NA,NA,NA,NA,male
+512,Eeles Landström,NA,NA,NA,NA,male
+513,Eero Lankia,NA,NA,NA,NA,male
+514,Arto Lapiolahti,NA,NA,NA,NA,male
+515,Vesa Laukkanen,NA,NA,NA,NA,male
+516,Henrik Lax,NA,NA,NA,NA,male
+517,Jouni Lehtimäki,NA,NA,NA,NA,male
+518,Lasse Lehtinen,NA,NA,NA,NA,male
+520,Markku Lehtosaari,NA,NA,NA,NA,male
+522,Johannes Leppänen,NA,NA,NA,NA,male
+523,Erkki Liikanen,NA,NA,NA,NA,male
+525,Heimo Linna,NA,NA,NA,NA,male
+526,Lauri Linna,NA,NA,NA,NA,male
+529,Paavo Lipponen,NA,NA,NA,NA,male
+530,Matti Louekoski,NA,NA,NA,NA,male
+535,Eero Lämsä,NA,NA,NA,NA,male
+536,Pehr Löv,NA,NA,NA,NA,male
+538,Pekka Löyttyniemi,NA,NA,NA,NA,male
+539,Hckan Malm,NA,NA,NA,NA,male
+540,Mauno Manninen,NA,NA,NA,NA,male
+541,Markku Markkula,NA,NA,NA,NA,male
+543,Olavi Martikainen,NA,NA,NA,NA,male
+544,Kalevi Mattila,NA,NA,NA,NA,male
+546,Lauri Metsämäki,NA,NA,NA,NA,male
+547,Mauri Miettinen,NA,NA,NA,NA,male
+548,Jukka Mikkola,NA,NA,NA,NA,male
+551,Erkki Moisander,NA,NA,NA,NA,male
+554,Peter Muurman,NA,NA,NA,NA,male
+555,Jouni Mykkänen,NA,NA,NA,NA,male
+556,Kari Myllyniemi,NA,NA,NA,NA,male
+557,Pekka Myllyniemi,NA,NA,NA,NA,male
+558,Raimo Mähönen,NA,NA,NA,NA,male
+560,Pertti Mäki-Hakola,NA,NA,NA,NA,male
+562,Toivo Mäkynen,NA,NA,NA,NA,male
+565,Tero Mölsä,NA,NA,NA,NA,male
+566,Tapani Mörttinen,NA,NA,NA,NA,male
+567,Petri Neittaanmäki,NA,NA,NA,NA,male
+568,Artturi Niemelä,NA,NA,NA,NA,male
+570,Paavo Nikula,NA,NA,NA,NA,male
+571,Hckan Nordman,NA,NA,NA,NA,male
+572,Ole Norrback,NA,NA,NA,NA,male
+573,Pekka Nousiainen,NA,NA,NA,NA,male
+574,Mats Nyby,NA,NA,NA,NA,male
+575,Lasse Näsi,NA,NA,NA,NA,male
+578,Reino Ojala,NA,NA,NA,NA,male
+579,Kalevi Olin,NA,NA,NA,NA,male
+580,Juhani Orrenmaa,NA,NA,NA,NA,male
+581,Reino Paasilinna,NA,NA,NA,NA,male
+582,Pertti Paasio,NA,NA,NA,NA,male
+583,Lauri Palmunen,NA,NA,NA,NA,male
+584,Eero Paloheimo,NA,NA,NA,NA,male
+587,Matti Pelttari,NA,NA,NA,NA,male
+588,Seppo Pelttari,NA,NA,NA,NA,male
+589,Risto Penttilä,NA,NA,NA,NA,male
+592,Mikko Pesälä,NA,NA,NA,NA,male
+598,Toivo T. Pohjala,NA,NA,NA,NA,male
+600,Markku Pohjola,NA,NA,NA,NA,male
+603,Iivo Polvi,NA,NA,NA,NA,male
+604,Osmo Polvinen,NA,NA,NA,NA,male
+605,Pentti Poutanen,NA,NA,NA,NA,male
+607,Matti Puhakka,NA,NA,NA,NA,male
+608,Osmo Puhakka,NA,NA,NA,NA,male
+609,Martti Pura,NA,NA,NA,NA,male
+610,Terho Pursiainen,NA,NA,NA,NA,male
+612,Erkki Pystynen,NA,NA,NA,NA,male
+613,Raimo Päivinen,NA,NA,NA,NA,male
+615,Kullervo Rainio,NA,NA,NA,NA,male
+617,Jussi Ranta,NA,NA,NA,NA,male
+618,Aulis Ranta-Muotio,NA,NA,NA,NA,male
+619,Jorma Rantanen,NA,NA,NA,NA,male
+621,Juhani Raudasoja,NA,NA,NA,NA,male
+622,Anssi Rauramo,NA,NA,NA,NA,male
+625,Boris Renlund,NA,NA,NA,NA,male
+627,Heikki Rinne,NA,NA,NA,NA,male
+628,Olavi Ronkainen,NA,NA,NA,NA,male
+629,Jukka Roos,NA,NA,NA,NA,male
+630,Timo Roos,NA,NA,NA,NA,male
+633,Matti Ryhänen,NA,NA,NA,NA,male
+635,Pekka Räty,NA,NA,NA,NA,male
+636,Mikko Rönnholm,NA,NA,NA,NA,male
+637,Pauli Saapunki,NA,NA,NA,NA,male
+638,Aapo Saari,NA,NA,NA,NA,male
+639,Martin Saarikangas,NA,NA,NA,NA,male
+640,Pekka Saarnio,NA,NA,NA,NA,male
+641,Veikko Saarto,NA,NA,NA,NA,male
+643,Kimmo Sarapää,NA,NA,NA,NA,male
+644,Juhani Saukkonen,NA,NA,NA,NA,male
+645,Oiva Savela,NA,NA,NA,NA,male
+646,Petter Savola,NA,NA,NA,NA,male
+647,Ismo Seivästö,NA,NA,NA,NA,male
+648,Arto Seppälä,NA,NA,NA,NA,male
+649,Timo Seppälä,NA,NA,NA,NA,male
+650,Esko Seppänen,NA,NA,NA,NA,male
+654,Juho Sillanpää,NA,NA,NA,NA,male
+655,Juhani Sipiläinen,NA,NA,NA,NA,male
+656,Eino Siuruainen,NA,NA,NA,NA,male
+657,Juhani Sjöblom,NA,NA,NA,NA,male
+658,Sakari Smeds,NA,NA,NA,NA,male
+659,Pär Stenbäck,NA,NA,NA,NA,male
+662,Ulf Sundqvist,NA,NA,NA,NA,male
+664,Ilkka Suominen,NA,NA,NA,NA,male
+667,Jouni J. Särkijärvi,NA,NA,NA,NA,male
+670,Ilkka Taipale,NA,NA,NA,NA,male
+672,Hannu Takkula,NA,NA,NA,NA,male
+673,Carl Olof Tallgren,NA,NA,NA,NA,male
+674,Helge Talvitie,NA,NA,NA,NA,male
+675,Hannu Tapiola,NA,NA,NA,NA,male
+676,Jukka Tarkka,NA,NA,NA,NA,male
+677,Christoffer Taxell,NA,NA,NA,NA,male
+678,Hannu Tenhiälä,NA,NA,NA,NA,male
+679,Raimo Tiilikainen,NA,NA,NA,NA,male
+680,Kyösti Toivonen,NA,NA,NA,NA,male
+682,Risto Tuominen,NA,NA,NA,NA,male
+683,Jouko Tuovinen,NA,NA,NA,NA,male
+684,Olavi Tupamäki,NA,NA,NA,NA,male
+686,Pertti Turtiainen,NA,NA,NA,NA,male
+687,Väinö Turunen,NA,NA,NA,NA,male
+690,Taisto Tähkämaa,NA,NA,NA,NA,male
+691,Pauli Uitto,NA,NA,NA,NA,male
+693,Kari Urpilainen,NA,NA,NA,NA,male
+694,Mikko Vainio,NA,NA,NA,NA,male
+695,Sakari Valli,NA,NA,NA,NA,male
+699,Pekka Vennamo,NA,NA,NA,NA,male
+700,Osmo Vepsäläinen,NA,NA,NA,NA,male
+701,Raino Westerholm,NA,NA,NA,NA,male
+703,Ahti Vielma,NA,NA,NA,NA,male
+704,Jukka Vihriälä,NA,NA,NA,NA,male
+705,Iiro Viinanen,NA,NA,NA,NA,male
+706,Janne Viitamies,NA,NA,NA,NA,male
+707,Jari Vilén,NA,NA,NA,NA,male
+708,Pekka Viljanen,NA,NA,NA,NA,male
+709,Väinö Vilponiemi,NA,NA,NA,NA,male
+710,Kyösti Virrankoski,NA,NA,NA,NA,male
+711,Markku Vuorensola,NA,NA,NA,NA,male
+712,Raimo Vuoristo,NA,NA,NA,NA,male
+713,Matti Väistö,NA,NA,NA,NA,male
+714,Mauri Vänskä,NA,NA,NA,NA,male
+11,Janina Andersson,vihr,Varsinais-Suomen vaalipiiri,28.34.51,ent,female
+16,Sirpa Asko-Seljavaara,kok,Helsingin vaalipiiri,12.42.19,ent,female
+23,Tuija Brax,vihr,Uudenmaan vaalipiiri,06.33.45,ent,female
+34,Merikukka Forsius,kok,Uudenmaan vaalipiiri,12.40.52,ent,female
+35,Christina Gestrin,r,Uudenmaan vaalipiiri,12.33.47,ent,female
+40,Satu Haapanen,vihr,Oulun vaalipiiri,03.35.49,ent,female
+52,Leena Harkimo,kok,Uudenmaan vaalipiiri,28.35.43,ent,female
+54,Heidi Hautala,vihr,Uudenmaan vaalipiiri,14.43.35,ent,female
+61,Hanna-Leena Hemming,kok,Uudenmaan vaalipiiri,02.38.41,ent,female
+63,Rakel Hiltunen,sd,Helsingin vaalipiiri,02.39.20,ent,female
+65,Anne Holmlund,kok,Satakunnan vaalipiiri,18.36.44,ent,female
+71,Sinikka Hurskainen,sd,Kymen vaalipiiri,22.35.31,ent,female
+72,Liisa Hyssälä,kesk,Varsinais-Suomen vaalipiiri,18.44.28,ent,female
+79,Liisa Jaakonsaari,sd,Oulun vaalipiiri,02.41.25,ent,female
+87,Johanna Jurva,ps,Uudenmaan vaalipiiri,16.37.57,ent,female
+105,Saara Karhu,sd,Pirkanmaan vaalipiiri,06.43.37,ent,female
+106,Arja Karhuvaara,kok,Helsingin vaalipiiri,07.40.34,ent,female
+111,Tanja Karpela,kesk,Uudenmaan vaalipiiri,22.40.50,ent,female
+112,Ulla Karvo,kok,Lapin vaalipiiri,14.41.40,ent,female
+117,Pia Kauma,kok,Uudenmaan vaalipiiri,20.42.46,ent,female
+120,Inkeri Kerola,kesk,Oulun vaalipiiri,18.35.37,ent,female
+128,Mari Kiviniemi,kesk,Helsingin vaalipiiri,27.41.48,ent,female
+131,Katri Komi,kesk,Mikkelin vaalipiiri,11.37.48,ent,female
+137,Laila Koskela,kesk,Pirkanmaan vaalipiiri,03.35.29,ent,female
+142,Marjaana Koskinen,sd,Varsinais-Suomen vaalipiiri,26.33.42,ent,female
+147,Miapetra Kumpula-Natri,sd,Vaasan vaalipiiri,19.37.52,ent,female
+151,Merja Kuusisto,sd,Uudenmaan vaalipiiri,04.44.34,ent,female
+152,Merja Kyllönen,vas,Oulun vaalipiiri,25.33.57,ent,female
+171,Paula Lehtomäki,kesk,Helsingin vaalipiiri,29.43.52,ent,female
+174,Suvi Lindén,kok,Oulun vaalipiiri,19.36.42,ent,female
+178,Päivi Lipponen,sd,Helsingin vaalipiiri,25.38.47,ent,female
+186,Marjo Matikainen-Kallström,kok,Uudenmaan vaalipiiri,03.34.45,ent,female
+207,Elisabeth Nauclér,r,Ahvenanmaan maakunnan vaalipiiri,07.35.32,ent,female
+214,Tuija Nurmi,kok,Hämeen vaalipiiri,19.35.38,ent,female
+221,Kirsi Ojansuu-Kaunisto,vihr,Hämeen vaalipiiri,15.44.43,ent,female
+225,Heli Paasio,sd,Varsinais-Suomen vaalipiiri,24.43.52,ent,female
+229,Sari Palm,kd,Kymen vaalipiiri,17.37.46,ent,female
+237,Terhi Peltokorpi,kesk,Helsingin vaalipiiri,25.38.55,ent,female
+238,Tuula Peltonen,sd,Keski-Suomen vaalipiiri,04.41.42,ent,female
+240,Sanna Perkiö,kok,Helsingin vaalipiiri,28.35.42,ent,female
+254,Leena Rauhala,kd,Pirkanmaan vaalipiiri,28.34.22,ent,female
+289,Paula Sihto,kesk,Vaasan vaalipiiri,25.37.41,ent,female
+290,Anni Sinnemäki,vihr,Helsingin vaalipiiri,20.39.53,ent,female
+293,Minna Sirnö,vas,Pirkanmaan vaalipiiri,14.37.46,ent,female
+301,Johanna Sumuvuori,vihr,Helsingin vaalipiiri,08.43.56,ent,female
+308,Hanna Tainio,sd,Pirkanmaan vaalipiiri,20.41.40,ent,female
+309,Satu Taiveaho,sd,Hämeen vaalipiiri,29.41.56,ent,female
+311,Tarja Tallqvist,kd,Uudenmaan vaalipiiri,18.33.24,ent,female
+317,Astrid Thors,r,Helsingin vaalipiiri,06.43.37,ent,female
+318,Eila Tiainen,vas,Keski-Suomen vaalipiiri,24.44.25,ent,female
+320,Marja Tiura,kok,Pirkanmaan vaalipiiri,20.40.49,ent,female
+334,Tuulikki Ukkola,kok,Oulun vaalipiiri,28.43.23,ent,female
+336,Anu Urpalainen,kok,Kymen vaalipiiri,27.41.46,ent,female
+339,Raija Vahasalo,kok,Uudenmaan vaalipiiri,10.35.41,ent,female
+350,Ulla-Maj Wideroos,r,Vaasan vaalipiiri,22.42.31,ent,female
+351,Pauliina Viitamies,sd,Etelä-Savon vaalipiiri,11.35.49,ent,female
+358,Henna Virkkunen,kok,Keski-Suomen vaalipiiri,04.38.52,ent,female
+367,Tuula Väätäinen,sd,Pohjois-Savon vaalipiiri,02.42.35,ent,female
+375,Raila Aho,NA,NA,NA,NA,female
+376,Kirsti Ala-Harja,NA,NA,NA,NA,female
+377,Pirjo Ala-Kapee-Hakulinen,NA,NA,NA,NA,female
+380,Arja Alho,NA,NA,NA,NA,female
+382,Ulla-Leena Alppi,NA,NA,NA,NA,female
+383,Ulla Anttila,NA,NA,NA,NA,female
+384,Pirjo-Riitta Antvuori,NA,NA,NA,NA,female
+386,Heli Astala,NA,NA,NA,NA,female
+387,Maria Kaisa Aula,NA,NA,NA,NA,female
+389,Rose-Marie Björkenheim,NA,NA,NA,NA,female
+396,Tarja Cronberg,NA,NA,NA,NA,female
+397,Kaarina Dromberg,NA,NA,NA,NA,female
+398,Paula Eenilä,NA,NA,NA,NA,female
+405,Iiris Hacklin,NA,NA,NA,NA,female
+407,Tarja Halonen,NA,NA,NA,NA,female
+416,Elsi Hetemäki-Olander,NA,NA,NA,NA,female
+417,Liisa Hilpelä,NA,NA,NA,NA,female
+418,Leea Hiltunen,NA,NA,NA,NA,female
+419,Inger Hirvelä López,NA,NA,NA,NA,female
+423,Anne Huotari,NA,NA,NA,NA,female
+424,Terttu Huttu-Juntunen,NA,NA,NA,NA,female
+427,Helvi Hyrynkangas,NA,NA,NA,NA,female
+428,Anna-Liisa Hyvönen,NA,NA,NA,NA,female
+430,Tuulikki Hämäläinen,NA,NA,NA,NA,female
+431,Ulpu Iivari,NA,NA,NA,NA,female
+432,Pirkko Ikonen,NA,NA,NA,NA,female
+433,Tuula Ikonen-Graafmans,NA,NA,NA,NA,female
+436,Tytti Isohookana-Asunmaa,NA,NA,NA,NA,female
+442,Anna-Liisa Jokinen,NA,NA,NA,NA,female
+445,Riitta Jouppila,NA,NA,NA,NA,female
+446,Vuokko Juhola,NA,NA,NA,NA,female
+447,Ulla Juurola,NA,NA,NA,NA,female
+450,Ulla Järvilehto,NA,NA,NA,NA,female
+451,Anneli Jäätteenmäki,NA,NA,NA,NA,female
+452,Marjut Kaarilahti,NA,NA,NA,NA,female
+457,Minna Karhunen,NA,NA,NA,NA,female
+459,Seija Karkinen,NA,NA,NA,NA,female
+461,Marjukka Karttunen,NA,NA,NA,NA,female
+462,Tatja Karvonen,NA,NA,NA,NA,female
+463,Anna-Liisa Kasurinen,NA,NA,NA,NA,female
+464,Orvokki Kauppila,NA,NA,NA,NA,female
+466,Riitta Kauppinen,NA,NA,NA,NA,female
+468,Tarja Kautto,NA,NA,NA,NA,female
+471,Marja-Leena Kemppainen,NA,NA,NA,NA,female
+476,Anne Knaapi-Lamminen,NA,NA,NA,NA,female
+479,Annikki Koistinen,NA,NA,NA,NA,female
+481,Tellervo Koivisto,NA,NA,NA,NA,female
+482,Paula Kokkonen,NA,NA,NA,NA,female
+485,Riitta Korhonen,NA,NA,NA,NA,female
+490,Irina Krohn,NA,NA,NA,NA,female
+495,Eeva Kuuskoski,NA,NA,NA,NA,female
+496,Lea Kärhä,NA,NA,NA,NA,female
+498,Pirkko Laakkonen,NA,NA,NA,NA,female
+499,Erja Lahikainen,NA,NA,NA,NA,female
+508,Sinikka Laisaari,NA,NA,NA,NA,female
+519,Leila Lehtinen,NA,NA,NA,NA,female
+521,Sirkka Lekman,NA,NA,NA,NA,female
+524,Maija-Liisa Lindqvist,NA,NA,NA,NA,female
+527,Tuula Linnainmaa,NA,NA,NA,NA,female
+528,Minna Lintonen,NA,NA,NA,NA,female
+531,Anna-Kaarina Louvo,NA,NA,NA,NA,female
+532,Leena Luhtanen,NA,NA,NA,NA,female
+533,Sinikka Luja-Penttilä,NA,NA,NA,NA,female
+534,Hannele Luukkainen,NA,NA,NA,NA,female
+537,Marja-Liisa Löyttyjärvi,NA,NA,NA,NA,female
+542,Hanna Markkula-Kivisilta,NA,NA,NA,NA,female
+545,Rosa Meriläinen,NA,NA,NA,NA,female
+549,Eeva-Liisa Moilanen,NA,NA,NA,NA,female
+550,Riikka Moilanen,NA,NA,NA,NA,female
+552,Helmi Morri,NA,NA,NA,NA,female
+553,Kyllikki Muttilainen,NA,NA,NA,NA,female
+559,Tina Mäkelä,NA,NA,NA,NA,female
+561,Marita Mäkinen,NA,NA,NA,NA,female
+563,Lauha Männistö,NA,NA,NA,NA,female
+564,Aune Mänttäri,NA,NA,NA,NA,female
+569,Terhi Nieminen-Mäkynen,NA,NA,NA,NA,female
+576,Arja Ojala,NA,NA,NA,NA,female
+577,Outi Ojala,NA,NA,NA,NA,female
+585,Kati Peltola,NA,NA,NA,NA,female
+586,Pirkko Peltomo,NA,NA,NA,NA,female
+590,Maija Perho,NA,NA,NA,NA,female
+591,Helena Pesola,NA,NA,NA,NA,female
+593,Tuulikki Petäjäniemi,NA,NA,NA,NA,female
+594,Margareta Pietikäinen,NA,NA,NA,NA,female
+595,Sirpa Pietikäinen,NA,NA,NA,NA,female
+596,Kirsi Piha,NA,NA,NA,NA,female
+597,Tuula Pihlajamaa,NA,NA,NA,NA,female
+599,Aino Pohjanoksa,NA,NA,NA,NA,female
+601,Tuija Pohjola,NA,NA,NA,NA,female
+602,Hannele Pokka,NA,NA,NA,NA,female
+606,Riitta Prusti,NA,NA,NA,NA,female
+611,Tuija Maaret Pykäläinen,NA,NA,NA,NA,female
+614,Susanna Rahkonen,NA,NA,NA,NA,female
+616,Maija Rajantie,NA,NA,NA,NA,female
+620,Maija Rask,NA,NA,NA,NA,female
+623,Elisabeth Rehn,NA,NA,NA,NA,female
+624,Tellervo Renko,NA,NA,NA,NA,female
+626,Eila Rimmi,NA,NA,NA,NA,female
+631,Irma Rosnell,NA,NA,NA,NA,female
+632,Pirjo Rusanen,NA,NA,NA,NA,female
+634,Mirja Ryynänen,NA,NA,NA,NA,female
+642,Riitta Saastamoinen,NA,NA,NA,NA,female
+651,Outi Siimes,NA,NA,NA,NA,female
+652,Suvi-Anne Siimes,NA,NA,NA,NA,female
+653,Eva-Riitta Siitonen,NA,NA,NA,NA,female
+660,Marjatta Stenius-Kaukonen,NA,NA,NA,NA,female
+661,Aino Suhola,NA,NA,NA,NA,female
+663,Oili Suomi,NA,NA,NA,NA,female
+665,Kaarina Suonio,NA,NA,NA,NA,female
+666,Katja Syvärinen,NA,NA,NA,NA,female
+668,Säde Tahvanainen,NA,NA,NA,NA,female
+669,Anneli Taina,NA,NA,NA,NA,female
+671,Irmeli Takala,NA,NA,NA,NA,female
+681,Irja Tulonen,NA,NA,NA,NA,female
+685,Pirkko Turpeinen-Saari,NA,NA,NA,NA,female
+688,Marja-Liisa Tykkyläinen,NA,NA,NA,NA,female
+689,Pirkko Työläjärvi,NA,NA,NA,NA,female
+692,Riitta Uosukainen,NA,NA,NA,NA,female
+696,Helena Vartiainen,NA,NA,NA,NA,female
+697,Ritva Vastamäki,NA,NA,NA,NA,female
+698,Marjatta Vehkaoja,NA,NA,NA,NA,female
+702,Maija-Liisa Veteläinen,NA,NA,NA,NA,female
+715,Marjatta Väänänen,NA,NA,NA,NA,female
+716,Jaana Ylä-Mononen,NA,NA,NA,NA,female
+717,Jutta Zilliacus,NA,NA,NA,NA,female

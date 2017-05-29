@@ -1,0 +1,106 @@
+---
+title: "Politics"
+output:
+  html_document: default
+  html_notebook: default
+  pdf_document: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+Load (and install if needed) required packages:
+
+```{r, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse,zoo)
+```
+
+Load the parliament member info data:
+```{r}
+parliament_members_info1 <- read.csv("kansanedustajat_2007-.csv",stringsAsFactors = FALSE) %>% select(Sukunimi,Etunimi,Eduskuntaryhmä,Vaalipiiri,Syntymäaika,Edustajatoimen.tila)
+parliament_members_info2 <- read.csv("kansanedustajat_taydentava.csv",stringsAsFactors = FALSE)
+parliament_members_info3 <- read.csv("parl_members_gendered.csv", stringsAsFactors = FALSE)
+```
+
+Create a sensible dataframe combining the data:
+
+```{r}
+parliament_members_info <- full_join(parliament_members_info1,parliament_members_info2, by = c("Sukunimi", "Etunimi")) %>% transmute(name = paste0(Etunimi," ",Sukunimi), Eduskuntaryhmä = ifelse(Eduskuntaryhmä!="",Eduskuntaryhmä,Ekr.lyhenne), Vaalipiiri = ifelse(Vaalipiiri.x!="",Vaalipiiri.x,Vaalipiiri.y), Syntymäaika, Edustajatoimen.tila) %>% left_join(parliament_members_info3 %>% transmute(name,Sukupuoli), by = "name")
+```
+
+Load the visibility data:
+
+```{r}
+parliament_members_yle <- read.csv("parliament-members-yle.csv",header=FALSE,col.names = c("queryLemma","name","date","id"),stringsAsFactors = FALSE) %>% select(-id) %>% mutate(date=as.Date(date))
+parliament_members_yle_migration <- read.csv("yle-migration-parliament-members.csv",header=FALSE,col.names = c("queryLemma","name","date","id"),stringsAsFactors = FALSE) %>% select(-id) %>% mutate(date=as.Date(date))
+parliament_members_hs <- read.csv("parliament-members-hs.csv",header=FALSE,col.names = c("queryLemma","name","date","id"),stringsAsFactors = FALSE) %>% select(-id) %>% mutate(date=as.Date(date))
+```
+
+Combine visibility data:
+
+```{r}
+parliament_members_visibility <- union((parliament_members_hs %>% mutate(Source = "HS")),(parliament_members_yle %>% mutate(Source = "YLE")))
+parliament_members_visibility <- parliament_members_yle_migration %>% mutate(Source = "YLE")
+```
+
+Create the grouped data for plotting:
+```{r}
+
+group <- function(data, groupBy, facetBy, dateFunction) {
+  return (data %>% mutate(date = as.Date(dateFunction(date))) %>% group_by_("date",facetBy,groupBy) %>% count())
+}
+
+groupAndScale <- function(data, groupBy, facetBy, dateFunction) {
+  
+  data_to_plot <- group(data, groupBy, facetBy, dateFunction)
+
+  data_sums_by_group <- data_to_plot %>% group_by_("date",groupBy) %>% summarise(sum=sum(n))
+
+  data_to_plot <- data_to_plot %>% left_join(data_sums_by_group,by=c("date",groupBy)) %>% mutate(freq=n/sum)  
+  return(data_to_plot)
+
+}
+
+plot <- function(data, groupBy, facetBy, scales) {
+  ggplot(data, aes_string(x="date",y="freq",group=groupBy,color=groupBy)) + geom_line() + facet_grid(reformulate(".", facetBy), scales=scales)
+}
+
+plotGroupedAndScaled <- function(data, groupBy, facetBy, dateFunction, scales) {
+  plot(groupAndScale(data, groupBy, facetBy, dateFunction), groupBy, facetBy, scales) 
+}
+
+```
+
+Plot by person for people mentioned more than 300 times:
+
+```{r, fig.height=60, fig.width=10}
+groupedTalk <- parliament_members_visibility %>% filter(date>as.Date("2011-01-01")) %>% group_by(name) %>% filter(n()>30)  %>% mutate(freq = n()) %>% ungroup() %>% left_join(parliament_members_info, by = "name")
+plot(groupedTalk, "Source", "name", "fixed")
+```
+
+Plot by parliamentary group:
+
+```{r, fig.height=10, fig.width=10}
+plotGroupedAndScaled(parliament_members_visibility %>% filter(date>as.Date("2011-01-01")) %>% left_join(parliament_members_info, by ="name"),"Source","Eduskuntaryhmä",as.yearqtr, "free_y")
+```
+
+Plot by gender absolute:
+
+```{r, fig.height=10, fig.width=10}
+genderedData <- group(parliament_members_visibility %>% filter(date>as.Date("2011-01-01")) %>% left_join(parliament_members_info, by ="name"),"Source","name",as.yearqtr) %>% mutate(freq = n) %>% group_by(name) %>% filter(sum(freq)>80) %>% ungroup()
+plot(genderedData, "Source", "name", "fixed")
+```
+Plot by gender, relative:
+
+```{r, fig.height=10, fig.width=10}
+plotGroupedAndScaled(parliament_members_visibility %>% filter(date>as.Date("2011-01-01")) %>% left_join(parliament_members_info, by ="name"),"Source","Sukupuoli",as.yearqtr, "fixed")
+```
+
+```{r, fig.height=60, fig.width=100}}
+migration_agents <- read.csv("yle-political-agents-gender.csv",stringsAsFactors = FALSE, col.names=c("queryLemma","name","date","id")) %>% filter(date>as.Date("2014-01-01"))
+
+groupedAgents <- group(migration_agents,"name","name",as.yearqtr) %>% group_by(name) %>% filter(sum(n)>30) %>% filter(name!="Miesten tasa-arvo") %>% filter(name!="Miesten tasa-arvo") %>% filter(name!="Unioni") %>% ungroup()
+ggplot(groupedAgents, aes_string(x="date",y="n",group="name",color="name")) + geom_line() + coord_cartesian(ylim=c(0, 16))
+```
