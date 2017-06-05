@@ -1,0 +1,294 @@
+---
+title: "Topic Modeling YLE and HS data on migration and energy politics"
+author: "Digital Humanities Hackathon 2017, Media & Politics group"
+date: "5/24/2017"
+output: html_document
+---
+
+R script for building Structured Topic Model using data from YLE and HS web news archives. Datasets are not publicly available.
+
+
+```{r setup, include=FALSE,echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(cache=TRUE)
+library(data.table)
+library(stm)
+library(lubridate)
+library(dplyr)
+
+stopwords <- fread('finstop.txt')
+```
+
+
+```{r data-yle-energy, include=FALSE, echo=FALSE,eval=FALSE}
+all.files <- list.files(path = "../datasets/energy-lemmas-yle/",pattern = ".csv",full.names=TRUE)
+l <- lapply(all.files, fread, sep = ",",header=FALSE)
+energy_dt <- rbindlist(l)
+colnames(energy_dt) <- c("query","keyword","date","article_id","content")
+energy_dt_yle <- energy_dt %>% unique
+energy_dt_yle$media <- "YLE"
+```
+
+```{r data-hs-energy, eval=FALSE,echo=FALSE}
+all.files <- list.files(path = "../datasets/energy-lemmas-hs/",pattern = ".csv",full.names=TRUE)
+l <- lapply(all.files, fread, sep=",",header=FALSE)
+energy_dt <- rbindlist(l)
+colnames(energy_dt) <- c("query","keyword","date","article_id","content")
+energy_dt_hs <- energy_dt %>% unique
+energy_dt_hs$media <- "HS"
+
+```
+
+```{r data-final-energy,eval=FALSE,echo=FALSE}
+energy_full <- rbindlist(list(energy_dt_yle,energy_dt_hs))
+energy_full$year <- year(energy_full$date)
+energy_full <- energy_full %>% select(article_id, content, year, media) %>% filter(year > 1970) %>% unique
+                  
+# We have to convert data.table back to a data.frame to avoid errors in STM
+energy_full <- as.data.frame(energy_full)
+
+```
+
+```{r data-yle-migration, eval=FALSE,echo=FALSE}
+all.files <- list.files(path = "../datasets/migration-lemmas-yle/",pattern = ".csv",full.names=TRUE)
+l <- lapply(all.files, fread, sep=",",header=FALSE,colClasses=c("character","character","character","character","character"))
+migration_dt <- rbindlist( l )
+colnames(migration_dt) <- c("query","keyword","date","article_id","content")
+migration_dt_yle <- migration_dt_yle %>% select(keyword:content)
+migration_dt_yle <- migration_dt_yle %>% unique
+migration_dt_yle$media <- "YLE"
+
+
+```
+
+```{r data-hs-migration,eval=FALSE,echo=FALSE}
+all.files <- list.files(path = "../datasets/migration-lemmas-hs/",pattern = ".csv",full.names=TRUE)
+l <- lapply(all.files, fread, sep=",",header=FALSE,colClasses=c("character","character","character","character"))
+migration_dt <- rbindlist( l )
+colnames(migration_dt) <- c("keyword","date","article_id","content")
+migration_dt_hs <- migration_dt %>% unique
+migration_dt_hs$media <- "HS"
+
+```
+
+```{r data-final-migration,eval=FALSE,echo=FALSE}
+migration_full <- rbindlist(list(migration_dt_yle,migration_dt_hs))
+migration_full$year <- year(migration_full$date)
+migration_full <- migration_full %>% select(article_id, content, year, media) %>% filter(year > 1970) %>% unique
+# We have to convert data.table back to a data.frame to avoid errors in STM
+migration_full <- as.data.frame(migration_full)
+
+```
+
+
+## Energy subcorpus
+
+```{r build-model-energy, eval=FALSE}
+energy_processed <- textProcessor(
+  energy_full$content, 
+  metadata = energy_full,
+  stem=FALSE,
+  customstopwords = stopwords$V1)
+
+energy_out <- prepDocuments(
+  energy_processed$documents, 
+  energy_processed$vocab,
+  energy_processed$meta,
+  lower.thresh = 15)
+
+# Let's use automatic selection of topics using parameter K=0
+energy_model_fit <- stm(
+  energy_out$documents, 
+  energy_out$vocab, 
+  K = 0,
+  prevalence =~ media + s(year), 
+  max.em.its = 100,
+  data = energy_out$meta, 
+  init.type = "Spectral")
+
+```
+
+
+```{r energy-model-topic-exploring,eval=FALSE}
+energy_model_fit <- readRDS('energy_model_fit.RDs')
+energy_out <- readRDS('energy_out.RDs')
+labelTopics(energy_model_fit)
+energy_prep <- estimateEffect(
+  1:72 ~ media + s(year),
+  energy_model_fit,
+  meta = energy_out$meta,
+  uncertainty = "Global")
+
+```
+
+```{r energy-top-topics}
+energy_model_fit <- readRDS('energy_model_fit.RDs')
+plot(
+  energy_model_fit,
+  type = "summary",
+  xlim = c(0, .6),
+  n = 10,
+  labeltype = "frex",
+  topics = c(67,25,61,36,30),
+  text.cex = 0.6,
+  main = "Selected energy-related topics")
+```
+
+### Ukrainian problems -topic (topic no 25)
+
+```{r energy-ukraine}
+energy_prep <- readRDS('energy_prep.Rds')
+plot(
+  energy_prep, "year", 
+  method = "continuous", 
+  topics = 25, 
+  printlegend = FALSE,
+  xaxt = "n",
+  xlab = "Years",
+  main = "Ukrainian problems")
+axis(1,at=seq(from=2000, to=2016,by=2))
+```
+
+### Russia-Ukraine relations (topic no 61)
+
+```{r energy-ukraine-crisis}
+plot(
+  energy_prep, "year", 
+  method = "continuous", 
+  topics = 61, 
+  printlegend = FALSE,
+  xaxt = "n",
+  xlab = "Years",
+  main = "Russia - Ukraine -relations")
+axis(1,at=seq(from=2000, to=2016,by=2))
+```
+
+```{r}
+plot(energy_prep, covariate = "media", topics = c(67,25,61,36,30),
+  model = energy_model_fit, method = "difference",
+  cov.value1 = "HS", cov.value2 = "YLE",
+  main = "HS vs YLE",
+  xlim = c(-.1, .1),
+  labeltype = "custom",
+  custom.labels = c(
+    "LNG and natural gas",
+    "Ukrainan gas pipeline",
+    "Russia-Ukraine -relations",
+    "Oil price",
+    "Price of gasoline"))
+
+```
+
+### How different energy-related topics are correlated?
+
+```{r energy-topic-correlations}
+energy_model_fit <- readRDS('energy_model_fit.RDs')
+mod.out.corr <- topicCorr(energy_model_fit)
+plot(
+  mod.out.corr,
+  topics = c(67,25,61,36,30),
+  vlabels = c(
+    "LNG and natural gas",
+    "Ukrainan gas pipeline",
+    "Russia-Ukraine -relations",
+    "Oil price",
+    "Price of gasoline"))
+```
+
+
+```{r energy-save-data,eval=FALSE,echo=FALSE}
+saveRDS(energy_model_fit,file="energy_model_fit.RDs")
+saveRDS(energy_processed,file="energy_processed.RDs")
+saveRDS(energy_out,file="energy_out.RDs")
+saveRDS(energy_prep,file="energy_prep.RDs")
+```
+
+
+## Migration subcorpus
+
+```{r build-model-migration, eval=FALSE}
+migration_processed <- textProcessor(
+  migration_full$content,
+  metadata = migration_full,
+  stem=FALSE,
+  customstopwords = stopwords$V1)
+
+migration_out <- prepDocuments(
+  migration_processed$documents,
+  migration_processed$vocab,
+  migration_processed$meta,
+  lower.thresh = 15)
+
+# Let's use automatic selection of topics using parameter K=0
+migration_model_fit <- stm(
+  migration_out$documents,
+  migration_out$vocab,
+  K = 0,
+  prevalence =~ media + s(year),
+  max.em.its = 100,
+  data = migration_out$meta,
+  init.type = "Spectral")
+```
+
+```{r migration-model-topic-exploring,eval=FALSE}
+migration_model_fit <- readRDS('migration_model_fit.RDs')
+migration_out <- readRDS('migration_out.RDs')
+labelTopics(migration_model_fit)
+migration_prep <- estimateEffect(
+  1:50 ~ media + s(year),
+  migration_model_fit,
+  meta = migration_out$meta,
+  uncertainty = "Global")
+
+```
+
+
+
+```{r migration-top-topics}
+migration_model_fit <- readRDS('migration_model_fit.RDs')
+plot(
+  migration_model_fit,
+  type = "summary",
+  xlim = c(0, .6),
+  n = 10,
+  labeltype = "frex",
+  topics = c(3,5,13,28,80,1,8),
+  text.cex = 0.6,
+  main = "Selected immigration-related topics")
+```
+
+
+### How different immigration-related topics are correlated?
+
+```{r migration-topic-correlations}
+migration_model_fit <- readRDS('migration_model_fit.RDs')
+mod.out.corr <- topicCorr(migration_model_fit)
+plot(
+  mod.out.corr,
+  topics = c(3,5,13,28,80,1,8),
+  vlabels = c(
+    "Asylum process",
+    "Mediterranean human trafficking",
+    "Deporting",
+    "Crime and unrest",
+    "Events in Tornio",
+    "Syrian civil war",
+    "Immigation reception centers"
+    )
+  
+  )
+```
+
+
+```{r migration-save-data,eval=FALSE}
+saveRDS(migration_model_fit,file="migration_model_fit.RDs")
+saveRDS(migration_processed,file="migration_processed.RDs")
+saveRDS(migration_out,file="migration_out.RDs")
+saveRDS(migration_prep,file="migration_prep.RDs")
+```
+
+
+
+
+
+
