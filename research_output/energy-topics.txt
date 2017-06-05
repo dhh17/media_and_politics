@@ -1,0 +1,360 @@
+Topic 1 Top Words:
+ 	 Highest Prob: raaka-aine, neste, biopolttoaine, valmistaa, tuotanto, käyttää, valmistus 
+ 	 FREX: bioetanoli, biodiesel, biojalostamo, palmuöljy, oili, neste, ota 
+ 	 Lift: biobensiini, palmuöljydiesel, etanolitehdas, palmuöljy, vilja-pohjainen, kaidi, biodieseljalostamo 
+ 	 Score: neste, biopolttoaine, raaka-aine, biodiesel, oili, bioetanoli, biojalostamo 
+Topic 2 Top Words:
+ 	 Highest Prob: uusiutua, energia, tavoite, energiamuoto, suomi, käyttö, mennessä 
+ 	 FREX: energiamuoto, uusiutua, energialähde, päästötön, energiapolitiikka, lisääminen, energiatehokkuus 
+ 	 Lift: hiilineutraali, hiilivapaa, tukimalli, energiamuoto, energiastrategia, energiatavoite, energiakäänne 
+ 	 Score: uusiutua, energiamuoto, energialähde, energia, energiapolitiikka, tuulivoima, energiatehokkuus 
+Topic 3 Top Words:
+ 	 Highest Prob: eduskunta, hallitus, puheenjohtaja, kansanedustaja, kok, ministeri, kesk 
+ 	 FREX: kok, kesk, pekkarinen, mauri, eduskunta, elinkeinoministeri, kansanedustaja 
+ 	 Lift: rantakangas, sasi, lähetekeskustelu, ydinvoimaäänestys, pekkarinen, talousvaliokunta, mönkäre 
+ 	 Score: eduskunta, elinkeinoministeri, pekkarinen, kesk, kansanedustaja, kok, kokoomus 
+Topic 4 Top Words:
+ 	 Highest Prob: prosentti, osuus, sähkö, tuottaa, tuotanto, energia, käyttö 
+ 	 FREX: osuus, kivihiili, tera-wattitunti, kulutus, sähkötuotanto, tuonti, hiili 
+ 	 Lift: nettotuonti, yhteinentuotanto, yhteis-tuotanto, tera-wattitunti, kokonainenkulutus, twh, jäteliemi 
+ 	 Score: kivihiili, sähkötuotanto, tera-wattitunti, sähkö, tuotanto, kulutus, maakaasu 
+Topic 5 Top Words:
+ 	 Highest Prob: meri, alus, laiva, öljy, alue, satama, norja 
+ 	 FREX: alus, telakka, laiva, jäämeri, tankkeri, jäänmurtaja, varustamo 
+ 	 Lift: barentsobserveri, hammerfest, imon, merenkulkujärjestö, valdez, matkustaja-alus, risteilijä 
+ 	 Score: alus, laiva, meri, satama, jäämeri, arktinen, telakka 
+Topic 6 Top Words:
+ 	 Highest Prob: sähkö, tuottaa, hinta, sähkötuotanto, maksaa, tuotanto, suomi 
+ 	 FREX: aurinkosähkö, sähkömarkkinat, aurinkovoimala, aurinkopaneeli, paneeli, pohjoismainen, kilowattitunti 
+ 	 Lift: aurinkosähkövoimala, ekoenergia, tukkusähkö, aurinkovoimala, aurinkosähköjärjestelmä, aurinkosähkö, sähköpörssi 
+ 	 Score: aurinkosähkö, sähkötuotanto, aurinkopaneeli, sähkömarkkinat, sähkö, aurinkovoimala, megawatti 
+Topic 7 Top Words:
+ 	 Highest Prob: auto, polttoaine, ajaa, liikenne, uusi, kilometri, moottori 
+ 	 FREX: autoilija, tankata, dieselauto, autoilu, ajoneuvo, henkilöauto, autonvalmistaja 
+ 	 Lift: bensiinikäyttöisä, bensiinikäyttöisi, tankillinen, autotekniikka, bensaauto, polttomoottoriauto, täyssähköauto 
+ 	 Score: auto, autoilija, tankata, henkilöauto, autoliitto, dieselauto, moottori 
+Topic 8 Top Words:
+ 	 Highest Prob: ydinvoima, saksa, ydinvoimala, kysely, hallitus, vuosi, ruotsi 
+ 	 FREX: kysely, vastaaja, angela, liittokansleri, enemmistö, merkeli, saksa 
+ 	 Lift: ringhalsi, baden-württemberg, barsebäck, liittopäivävaali, liittopäivä, osavaltiovaalea, ringhals 
+ 	 Score: ydinvoima, ydinvoimala, kysely, liittokansleri, angela, merkeli, vastaaja 
+Topic 9 Top Words:
+ 	 Highest Prob: kiinteistö, rakennus, maalämpö, kaukolämpö, lämpö, tulla, rakentaa 
+ 	 FREX: kiinteistö, maalämpö, tontti, kaukolämpöverkko, hukkalämpö, neliö, neliömetri 
+ 	 Lift: lämpökaivo, maalämpökaivo, konesali, palvelinkeskus, kauko-kylmä, kalliolämpö, hakukoneyhtiö 
+ 	 Score: maalämpö, kiinteistö, kaukolämpö, kaukolämpöverkko, neliö, tontti, lämpö 
+Topic 10 Top Words:
+ 	 Highest Prob: alue, hanke, muu, muassa, kunta, selvittää, maakunta 
+ 	 FREX: ympäristövaikutus, maakunta, arviointi, elykeskus, kokkola, kemi, pohjois-karjala 
+ 	 Lift: arviointiselostus, yvaohjelma, kehittääyhtiö, kehittäminenyhtiö, cursori, yvamenettely, maakuntahallitus 
+ 	 Score: hanke, ympäristövaikutus, kunta, elykeskus, ely-keskus, maakunta, kemi 
+Topic 11 Top Words:
+ 	 Highest Prob: pelastuslaitos, palo, tulipalo, syttyä, paikka, palaa, onnettomuus 
+ 	 FREX: palo, pelastuslaitos, palokunta, palomestari, syttyä, tulipalo, hälytys 
+ 	 Lift: ilmiliekki, jälkisammutustyö, jälkivartiointi, sammutusyksikkö, palopaikka, sammutus, syttymissyy 
+ 	 Score: pelastuslaitos, palo, tulipalo, palomestari, palokunta, syttymissyy, syttyä 
+Topic 12 Top Words:
+ 	 Highest Prob: jokin, hyvä, pitää, mennä, tulla, sellainen, tehdä 
+ 	 FREX: joku, laittaa, syödä, miettiä, vaiva, monesti, maku 
+ 	 Lift: kypsentää, keittiömestari, paprika, ripotella, ruisleipä, maustaa, ruokalista 
+ 	 Score: ruoka, jaksaa, homma, joku, syödä, miettiä, usein 
+Topic 13 Top Words:
+ 	 Highest Prob: talo, säästää, lämmitys, energia, säästö, kulutus, sähkö 
+ 	 FREX: sähkölämmitys, pientalo, ilmalämpöpumppu, valaistus, säästää, säästö, motiva 
+ 	 Lift: ilmavesilämpöpumppu, poistoilmalämpöpumppu, passiivitalo, vesikiertoida, kauko-lämmitetty, pellettilämmitys, sähkölämmitys 
+ 	 Score: sähkölämmitys, pientalo, ilmalämpöpumppu, talo, lämmitys, säästö, lämmitysjärjestelmä 
+Topic 14 Top Words:
+ 	 Highest Prob: talous, vienti, kasvu, talouskasvu, eurooppa, miljardi, kiina 
+ 	 FREX: talouskasvu, talouskriisi, bruttokansantuote, vienti, taantuma, keskuspankki, taantua 
+ 	 Lift: kasvuennuste, valuuttavaranto, talousnäkymä, rahapolitiikka, kasvuluku, tullihallitus, ekonomisti 
+ 	 Score: talouskasvu, vienti, talous, keskuspankki, inflaatio, talouskriisi, bruttokansantuote 
+Topic 15 Top Words:
+ 	 Highest Prob: puolue, kokoomus, vaali, politiikka, perus-suomalainen, vihreä, puheenjohtaja 
+ 	 FREX: perussuomalaiset, perus-suomalainen, eduskuntavaali, demari, ehdokas, puolue, sdp 
+ 	 Lift: ääniharava, puolueväki, vaalitentti, puheenjohtajaehdokas, hallitustunnustelija, vasemmistoliittolainen, kuntavaalea 
+ 	 Score: puolue, kokoomus, perus-suomalainen, vasemmistoliitto, sdp, perussuomalaiset, vaali 
+Topic 16 Top Words:
+ 	 Highest Prob: ade, täällä, vanha, vuosi, sanoa, käydä, aika 
+ 	 FREX: täällä, ade, sauna, tänne, muistella, piha, kylä 
+ 	 Lift: talkoolainen, talonen, hirsi, kyläkauppa, hirsitalo, emäntä, haikea 
+ 	 Score: täällä, sauna, ade, lämmitys, piha, talo, kylä 
+Topic 17 Top Words:
+ 	 Highest Prob: kaasu, ajaa, ralli, auto, pohja, vauhti, tulla 
+ 	 FREX: ralli, mmralli, erikoiskoe, hirvonen, latvala, jari-matti, loeb 
+ 	 Lift: wrcn, ajotuntuma, eklla, gardemeister, kartanlukija, nryhmä, ralliradio 
+ 	 Score: erikoiskoe, mmralli, ralli, jari-matti, mmsarja, loeb, sebastie 
+Topic 18 Top Words:
+ 	 Highest Prob: ampnbsp, ampndash, ampnbps, vuotias, elämä, lapsi, mies 
+ 	 FREX: ampndash, ampnbsp, ampnbps, äiti, vaimo, amprdquo, quot 
+ 	 Lift: bullrun, dokumenttio, sananen, gene, piilokamera, täti, jim 
+ 	 Score: ampnbsp, ampndash, ampnbps, äiti, bullrun, vuotias, isä 
+Topic 19 Top Words:
+ 	 Highest Prob: mot, ampauml, ohjelma, eli, ett, ampaumlampauml, motn 
+ 	 FREX: mot, motn, tämmönen, käsikirjoitus, ett, lis, oltua 
+ 	 Lift: motn, mot, tällanen, kyl, tämmönen, mot-ohjelma, sillon 
+ 	 Score: ampauml, mot, ampaumlampauml, ampouml, kyllampauml, lis, motn 
+Topic 20 Top Words:
+ 	 Highest Prob: työllistää, työntekijä, yritys, työpaikka, tehdas, toimitusjohtaja, sanoa 
+ 	 FREX: työllistää, henkilöstö, ytneuvottelu, työpaikka, enso, tehdas, stora 
+ 	 Lift: moventas, yhteistoimintaneuvottelu, havusellu, pääluottamusmies, paperikone, lomautus, lakkautus 
+ 	 Score: työllistää, työntekijä, ytneuvottelu, työpaikka, tehdas, enso, stora 
+Topic 21 Top Words:
+ 	 Highest Prob: kaivos, talvivaara, uraani, kaivosyhtiö, sotkamo, kaivostoiminta, kainuu 
+ 	 FREX: talvivaara, kaivosyhtiö, kaivos, kaivostoiminta, sotkamo, kaivosalue, louhinta 
+ 	 Lift: kaivosalue, kipsinenakkaallas, avolouhos, kaivoslaki, nikkelikaivos, sokli, terrafame 
+ 	 Score: kaivos, talvivaara, uraani, kaivosyhtiö, sotkamo, kaivostoiminta, kaivosalue 
+Topic 22 Top Words:
+ 	 Highest Prob: luku, esim, toki, media, lähde, vastaus, vanha 
+ 	 FREX: hesari, unto, unski, kommentaattori, kepu, kangasluoma, jne 
+ 	 Lift: männynsalo, perässähiihtäjä, kaitera, siteeraus, unski, kangasluoma, postaus 
+ 	 Score: kangasluoma, perässähiihtäjä, unski, kepu, postaus, potaus, hesari 
+Topic 23 Top Words:
+ 	 Highest Prob: sähköverkko, verkko, sähkö, asiakas, sähköyhtiö, alue, yhtiö 
+ 	 FREX: verkkoyhtiö, maakaapelointi, kaapeli, sähkösiirto, ilmajohto, sähköverkko, sähkönjakelu 
+ 	 Lift: ilmajohto, ilmajohtoverkko, kaapeloida, maakaapelointi, mkaapeloida, säävarma, kaapeliverkko 
+ 	 Score: sähköverkko, sähkökatko, sähkönjakelu, maakaapelointi, sähköyhtiö, verkko, ilmajohto 
+Topic 24 Top Words:
+ 	 Highest Prob: presidentti, yhdysvallat, maa, vuosi, pääministeri, idhtml, obama 
+ 	 FREX: idhtml, obama, barack, bush, presidentinvaali, george, kongressi 
+ 	 Lift: morales, virkavala, idhtml, mugabe, virkakausi, wallius, demokraatti 
+ 	 Score: presidentti, idhtml, obama, barack, bush, vaali, george 
+Topic 25 Top Words:
+ 	 Highest Prob: venäjä, ukraina, venäläinen, kaasu, eurooppa, maa, presidentti 
+ 	 FREX: kaasutoimitus, gazprom, ukraina, vladimir, putin, kaasus, kaasukiista 
+ 	 Lift: barroso, kaasumonopoli, kaasutarve, kaasuvelka, timoshe, hintakiista, kaasukiista 
+ 	 Score: ukraina, venäjä, gazprom, kaasutoimitus, putin, vladimir, venäläinen 
+Topic 26 Top Words:
+ 	 Highest Prob: maailma, ilmastonmuutos, ilmasto, maapallo, lämpeneminen, ihminen, fossiilinen 
+ 	 FREX: lämpeneminen, maapallo, ihmiskunta, ilmakehä, ilmasto, ilmastonmuutos, vuosisata 
+ 	 Lift: esi-teollinen, malaria, ilmastotutkija, ikirouta, mannerjäätikkö, taalas, ipccn 
+ 	 Score: maapallo, lämpeneminen, ilmastonmuutos, ilmakehä, ilmasto, fossiilinen, kasvihuonekaasu 
+Topic 27 Top Words:
+ 	 Highest Prob: työ, lapsi, nuori, koulu, ihminen, palvelu, asua 
+ 	 FREX: eläke, oppilas, koulutus, opettaja, vanhus, palkka, koulu 
+ 	 Lift: oleskelulupa, työssäkäyvä, lukuvuosi, työkokemus, ammattikoulu, perhe-elämä, eläkeläiset 
+ 	 Score: lapsi, koulu, perhe, vuotias, palkka, nuori, oppilas 
+Topic 28 Top Words:
+ 	 Highest Prob: pelata, peli, joukkue, ottelu, kausi, maali, pelaaja 
+ 	 FREX: pelaaja, ottelu, joukkue, peli, pelata, maalivahti, päävalmentaja 
+ 	 Lift: avausjakso, rops, taklaus, avausmaali, avausottelu, hyökkäyspää, kotipeli 
+ 	 Score: joukkue, ottelu, pelaaja, pelata, päävalmentaja, kotijoukkue, maalivahti 
+Topic 29 Top Words:
+ 	 Highest Prob: pitää, käyttää, tulla, kannattaa, laite, esimerkiksi, palaa 
+ 	 FREX: tulisija, kosteus, uuni, takka, palaminen, ohje, kiuas 
+ 	 Lift: häkävaroitin, nuohooja, nuohous, pesällinen, pelastusala, hiillos, grillaaminen 
+ 	 Score: tulisija, kosteus, takka, hormi, kiuas, palovaroitin, palaminen 
+Topic 30 Top Words:
+ 	 Highest Prob: polttoaine, hinta, bensiini, nousta, euro, sentti, litra 
+ 	 FREX: litrahinta, kuluttajahinta, -oktaaninen, bensiini, kallistuminen, bensa, sentti 
+ 	 Lift: bensiinikauppias, ysivitonen, tuottajahinta, -oktaaninen, linja-autoliitto, skal, bensalitra 
+ 	 Score: bensiini, diesel, -oktaaninen, bensa, litrahinta, kuluttajahinta, kallistuminen 
+Topic 31 Top Words:
+ 	 Highest Prob: matka, ranta, tie, metri, maisema, päästä, kilometri 
+ 	 FREX: matkailija, reissu, turisti, yöpyä, maisema, teltta, kalastaa 
+ 	 Lift: länsirinne, kirov, annikki, jysähtää, silitysrauta, yöpyminen, tihvinä 
+ 	 Score: reissu, maisema, turisti, yöpyä, matkailija, teltta, puisto 
+Topic 32 Top Words:
+ 	 Highest Prob: kehittää, maailma, yliopisto, teknologia, tekniikka, esimerkiksi, toimia 
+ 	 FREX: teknillinen, kehittää, uudenlainen, teknologia, innovaatio, tekniikka, keksintö 
+ 	 Lift: startup-yritys, startupyritys, nanoteknologia, sovellus, tekes, teknillinen, kehittäjä 
+ 	 Score: teknologia, kehittää, teknillinen, innovaatio, yliopisto, keksintö, aurinkoenergia 
+Topic 33 Top Words:
+ 	 Highest Prob: toto-, suomi, toto, vuotias, mies, päivä, matti 
+ 	 FREX: duo-, toto, troikka-, duo, konsertti, troikka, toto- 
+ 	 Lift: duo-, troikka-, annankatu, voitto-osuus, pelivaihto, toto, sello 
+ 	 Score: toto-, duo-, toto, troikka-, raviurheilu, pelivaihto, duo 
+Topic 34 Top Words:
+ 	 Highest Prob: järjestää, mielenosoitus, vastustaa, vastaan, ihminen, tapahtuma, mielenosoittaja 
+ 	 FREX: aktivisti, mielenosoittaja, mielenosoitus, tempaus, järjestäjä, marssia, mielenilmaus 
+ 	 Lift: banderolli, parlamenttitalo, rautatietora, aktivisti, miljö, natur, tempaus 
+ 	 Score: mielenosoitus, mielenosoittaja, aktivisti, greenpeace, ydinvoima, poliisi, mielenilmaus 
+Topic 35 Top Words:
+ 	 Highest Prob: kisa, voittaa, kaasu, vuosi, kilpailu, ensimmäinen, hyvä 
+ 	 FREX: kisa, urheilija, mmkisa, olympialaiset, harjoittelu, harjoitella, laji 
+ 	 Lift: kisapaikka, olympiakisat, urheilija, huippu-urheilija, sponsori, harjoittelu, alkuerä 
+ 	 Score: kisa, mmkisa, urheilija, mestaruus, urheilu, maailmancup, harjoittelu 
+Topic 36 Top Words:
+ 	 Highest Prob: dollari, raakaöljy, öljy, hinta, yhdysvallat, maailma, päivä 
+ 	 FREX: tynnyri, barreli, opec, öljyntuotanto, raakaöljy, dollari, öljynviejämaa 
+ 	 Lift: brentraakaöljy, brentti, öljybarreli, wtilaatu, brent-viitelaatu, brenti, brentin 
+ 	 Score: raakaöljy, dollari, opec, barreli, tynnyrihinta, tynnyri, öljynviejämaa 
+Topic 37 Top Words:
+ 	 Highest Prob: asia, yle, mikään, kysymys, kirjoittaa, mieli, uutiset 
+ 	 FREX: uutiset, kirjoittaa, ymmärtää, keskustelu, sanoma, esiin, ill 
+ 	 Lift: pkirjoittua, wwwaamulehti, wwwilkka, wwwkalla, wwwsavonsanoa, wwwtsfi, wwwiltalehti 
+ 	 Score: sanoma, kirjoittaa, keskustelu, mielipide, uutiset, pääkirjoitus, ymmärtää 
+Topic 38 Top Words:
+ 	 Highest Prob: jäte, biokaasu, kaatopaikka, polttaa, syntyä, biojäte, biokaasulaitos 
+ 	 FREX: biokaasulaitos, kaatopaikka, kierrätys, seka-jäte, biojäte, energiajäte, jäteyhtiö 
+ 	 Lift: biometaani, ämmässuo, biojäteastia, ekorko, ekoro, ekorosk, jätekeskus 
+ 	 Score: jäte, biojäte, biokaasulaitos, biokaasu, kaatopaikka, energiajäte, seka-jäte 
+Topic 39 Top Words:
+ 	 Highest Prob: päästö, vähentää, vähentäminen, tavoite, hiilidioksidipäästö, mennessä, vuode 
+ 	 FREX: kasvihuonekaasupäästö, vähentäminen, kasvihuonepäästö, päästö, päästövähennys, kioto, ilmastosopimus 
+ 	 Lift: kokonainenpäästö, päästökauppasektori, vähentäätavoite, vähentäminentavoite, ilmastotoimi, päästövähennys, päästöleikkaus 
+ 	 Score: päästö, hiilidioksidipäästö, kasvihuonekaasupäästö, kasvihuonekaasu, ilmastosopimus, vähentäminen, kioto 
+Topic 40 Top Words:
+ 	 Highest Prob: japan, fukushima, ydinvoimala, onnettomuus, reaktori, voimala, japani 
+ 	 FREX: fukushima, tsunami, japan, ydinonnettomuus, maanjäristys, ydinvoimalaonnettomuus, tokio 
+ 	 Lift: kan, polttoaineallas, säteilyvuoto, suojarakennus, yoshihi, abe, harrisburg 
+ 	 Score: fukushima, japan, reaktori, ydinvoimala, maanjäristys, tsunami, ydinvoimalaonnettomuus 
+Topic 41 Top Words:
+ 	 Highest Prob: yhtiö, omistaa, euro, myydä, ostaa, valtio, kauppa 
+ 	 FREX: omistus, sijoittaja, omistaa, pääoma, liiketoiminta, tytäryhtiö, osake 
+ 	 Lift: ostotarjous, osakekanta, myyntiaie, infrastructure, sähkösiirtoliiketoiminta, kauppahinta, kauppasumma 
+ 	 Score: yhtiö, energiayhtiö, omistus, sijoittaja, miljardi, omistaa, fortum 
+Topic 42 Top Words:
+ 	 Highest Prob: poliisi, mies, epäillä, tapaus, kaksi, tehdä, vuosi 
+ 	 FREX: syyte, käräjäoikeus, rikos, epäilty, törkeä, syyttäjä, varas 
+ 	 Lift: ampuma-ase, asianomistaja, kihlakunnansyyttäjä, kaasusumutin, keskusrikospoliisi, hallusta, rikosnimike 
+ 	 Score: poliisi, syyte, rikos, käräjäoikeus, syyttäjä, anastaa, epäilty 
+Topic 43 Top Words:
+ 	 Highest Prob: viime, vuosi, kasvaa, prosentti, määrä, laskea, aika 
+ 	 FREX: lisääntyä, selvästi, verrata, vähentyä, vähetä, kasvaa, huomattavasti 
+ 	 Lift: vähentyä, liikennemäärä, vähentyminen, edellisvuotinen, tilasto, keskimääräinen, selvästi 
+ 	 Score: vähentyä, kasvu, edellisvuosi, lisääntyä, vähetä, prosentti, verrata 
+Topic 44 Top Words:
+ 	 Highest Prob: luku, yle, vuosi, suomi, uusi, aika, tarina 
+ 	 FREX: areena, elokuva, musiikki, taide, teos, tarina, ohjaaja 
+ 	 Lift: käsikirjoittaja, yhtye, rumpali, taiteellinen, elavaarkisto, biisi, päähenkilö 
+ 	 Score: elokuva, musiikki, taiteilija, taide, tarina, areena, teos 
+Topic 45 Top Words:
+ 	 Highest Prob: turve, vapo, kesä, hehtaari, nostaa, turvetuotanto, suo 
+ 	 FREX: turvetuotanto, turvesuo, vapo, turvenosto, suo, turvetuotantoalue, hehtaari 
+ 	 Lift: tuotantosuo, jäärni, nostotavoite, ojittaa, poutajakso, turvenosto, turvesuo 
+ 	 Score: vapo, turve, turvetuotanto, turvenosto, turvesuo, turvetuotantoalue, suo 
+Topic 46 Top Words:
+ 	 Highest Prob: vuonna, aikana, muun, mielestä, ampauml, aikaan, eli 
+ 	 FREX: muun, mielestä, aikana, vuonna, aikaan, jatkuva, alussa 
+ 	 Lift: jatkuva, muun, kiinnostunut, haluttu, vähentynyt, kotiin, lopulla 
+ 	 Score: ampauml, ampaumlampauml, kyllampauml, vuonna, ampaumlt, ampaumlampaumln, ampouml 
+Topic 47 Top Words:
+ 	 Highest Prob: luku, historia, sota, maailmansota, eurooppa, saksa, wikipedia 
+ 	 FREX: wikipedia, wiki, maailmansota, org, uskonto, jumala, natsi 
+ 	 Lift: wiki, natsi, wikipedia, adolf, juutalainen, hitler, vitsaus 
+ 	 Score: wikipedia, wiki, maailmansota, uskonto, natsi, org, juutalainen 
+Topic 48 Top Words:
+ 	 Highest Prob: aika, joutua, syy, kertoa, vika, aiheuttaa, korjata 
+ 	 FREX: normaalisti, vika, vähä-isi, vähä-isä, veneilijä, häiriö, vene 
+ 	 Lift: järvipelastaja, meripelastaja, lämpöjakelu, putkirikko, meripelastusseura, pelastusliivi, avustustehtävä 
+ 	 Score: vika, veneilijä, vuoto, kaukolämpö, korjaustyö, vuotokohta, lämpöjakelu 
+Topic 49 Top Words:
+ 	 Highest Prob: ydinvoimala, fennovoima, ydinvoima, olkiluoto, hanke, pyhäjoki, voimala 
+ 	 FREX: fennovoima, ydinvoimalahanke, olkiluoto, rosatom, tvo, pyhäjoki, ydinvoimahanke 
+ 	 Lift: kroatialainenyhtiö, periaatepäätöshakemus, posiva, solarna, voimaosakeyhtiö, ydinvoimalahanke, ydinvoimalaprojekti 
+ 	 Score: fennovoima, ydinvoimala, pyhäjoki, olkiluoto, tvo, ydinvoima, rosatom 
+Topic 50 Top Words:
+ 	 Highest Prob: ihminen, kuolla, viranomainen, kaasu, räjähdys, kaupunki, sattua 
+ 	 FREX: räjähdys, räjähtää, evakuoida, menehtyä, kuolla, loukkaantua, turma 
+ 	 Lift: junaturma, laava, kaasuräjähdys, eloonjäänyt, pelastustyötekijä, pelastustyöntekijä, mutavyöry 
+ 	 Score: räjähdys, loukkaantua, kuolla, evakuoida, onnettomuus, kuolonuhri, turma 
+Topic 51 Top Words:
+ 	 Highest Prob: yhdysvallat, maa, iran, kiina, sanoa, ydinase, uraani 
+ 	 FREX: ydinase, ydin-ohjelma, iran, rikastaa, turvallisuusneuvosto, iaea, pakote 
+ 	 Lift: ahmadinejadin, asekelpoinen, natanz, ahmadinejad, elbaradi, lisäpakote, teheran 
+ 	 Score: ydin-ohjelma, ydinase, iran, uraani, iaea, atomienergiajärjestö, rikastaa 
+Topic 52 Top Words:
+ 	 Highest Prob: pitää, mieli, suomi, kanta, tärkeä, vaatia, haluta 
+ 	 FREX: lainsäädäntö, päätöksenteko, ehdottaa, työryhmä, elinkeinoelämä, määritellä, lähtökohta 
+ 	 Lift: lainsäädäntö, eulainsäädäntö, kansallinenitä, pelisääntö, maatalouspolitiikka, sujuvoittaa, johdonmukaisuus 
+ 	 Score: lainsäädäntö, elinkeinoelämä, päätöksenteko, keskusliitto, komissio, jäsenmaa, linjaus 
+Topic 53 Top Words:
+ 	 Highest Prob: tulos, euro, yhtiö, miljoona, liikevaihto, vuosi, viime 
+ 	 FREX: liikevoitto, finnair, liikevaihto, lentoyhtiö, vuosineljännes, konserni, tappio 
+ 	 Lift: tilikausi, nettotulos, osake-kohtainen, tilivuosi, tulosvaroitus, heinäsyyskuu, ryanair 
+ 	 Score: liikevaihto, liikevoitto, lentoyhtiö, finnair, tammimaaliskuu, yhtiö, huhtikesäkuu 
+Topic 54 Top Words:
+ 	 Highest Prob: päätös, päättää, asia, käsitellä, lupa, kunta, valtuusto 
+ 	 FREX: kaupunginhallitus, valtuusto, hallinto-oikeus, kunnanhallitus, valitus, kemijoki, kaupunginvaltuusto 
+ 	 Lift: vaelluskala, ympäristölautakunta, vaelluskalakanta, sierilä, kemihaara, koskisuojelulaki, vesivoimarakentaminen 
+ 	 Score: hallinto-oikeus, kaupunginhallitus, valtuusto, kunnanhallitus, aluehallintovirasto, vesivoima, kemijoki 
+Topic 55 Top Words:
+ 	 Highest Prob: tuulivoima, tuulivoimala, voimala, rakentaa, rakentaminen, tuulivoimapuisto, tuulipuisto 
+ 	 FREX: tuulipuisto, tuulivoimapuisto, tuulivoimala, tuulivoimahanke, tuulivoimayhtiö, mylly, tuulimylly 
+ 	 Lift: ilmatar, napakorkeus, tuulipuisto, tuulipuistohanke, tuulivoimalahanke, tuulimittaus, tuulisaima 
+ 	 Score: tuulivoima, tuulivoimala, tuulivoimapuisto, tuulipuisto, tuulivoimahanke, tuulivoimayhtiö, tuulimylly 
+Topic 56 Top Words:
+ 	 Highest Prob: talvi, pakkanen, kylmä, sää, lämmin, aste, kova 
+ 	 FREX: pakkanen, kylmä, talvi, lämmin, lumi, aste, jäätyä 
+ 	 Lift: lumihiutale, aatonaatto, pakkanen, pakkanenjakso, paukkupakkanen, kylmyys, pakkasaste 
+ 	 Score: pakkanen, kylmä, lämmin, talvi, sää, aste, lämpötila 
+Topic 57 Top Words:
+ 	 Highest Prob: hevonen, toto-, juoksu, lämmitys, voittaa, voitto, matka 
+ 	 FREX: hevonen, juoksu, korpi, ravata, tamma, moilanen, suosikki 
+ 	 Lift: suur-kilpailu, lämminverinen, ravata, ravisuora, ruuna, tamma, suomenhevonen 
+ 	 Score: toto-, tamma, ravisuora, hevonen, ravata, lämminverinen, ruuna 
+Topic 58 Top Words:
+ 	 Highest Prob: tutkija, tutkimus, yliopisto, luonto, kasvi, eläin, tutkia 
+ 	 FREX: kasvi, ravinto, ravinne, eläin, monimuotoisuus, bakteeri, erikoistutkija 
+ 	 Lift: lajisto, suolisto, happamuus, hyönteinen, ympäristötiede, ravintoaine, allergia 
+ 	 Score: kasvi, ravinne, tutkija, ravinto, bakteeri, eläin, monimuotoisuus 
+Topic 59 Top Words:
+ 	 Highest Prob: polttoaine, ranska, hallitus, maa, ruoka, viikko, presidentti 
+ 	 FREX: lakko, gaza, palestiinalainen, ammattiliitto, nicolas, protesti, israel 
+ 	 Lift: mubara, wfp, gatsalainen, hamasjärjestö, wfpn, lakkolainen, avustuskuljetus 
+ 	 Score: gaza, lakko, palestiinalainen, afp, mielenosoitus, ranska, israel 
+Topic 60 Top Words:
+ 	 Highest Prob: ampauml, esim, kohta, eli, maantiede, ampaumlampauml, piste 
+ 	 FREX: maantiede, lähettäjä, nii, elintarviketurvallisuusvirasto, kysymysarkisto, kuika, evira 
+ 	 Lift: kysymysarkisto, lähettäjä, elintarviketurvallisuusvirasto, ampgt, maantiede, jokeri, nro 
+ 	 Score: ampauml, ampaumlampauml, ampouml, kysymysarkisto, ampaumlstampauml, ampaumlampaumln, ampoumls 
+Topic 61 Top Words:
+ 	 Highest Prob: venäjä, sota, länsi, poliittinen, neuvostoliitto, ukraina, tärkeä 
+ 	 FREX: krim, konflikti, nato, neuvostoliitto, ulkopoliittinen, sotilaallinen, ulkopolitiikka 
+ 	 Lift: aljaksandr, maidan, venäjävastainen, geopolitiikka, jeltsin, autoritaarinen, valtiojohto 
+ 	 Score: krim, ukraina, itä-ukraina, putin, nato, vladimir, venäjä 
+Topic 62 Top Words:
+ 	 Highest Prob: joukko, armeija, isku, kertoa, syyria, sotilas, kuolla 
+ 	 FREX: kapinallinen, siviili, syyria, sotilas, armeija, ilmaisku, isku 
+ 	 Lift: ääri-islamistinen, autopommi-isku, autopommiisku, kirkuk, damaskos, homs, isisjärjestö 
+ 	 Score: syyria, irak, kapinallinen, sotilas, ilmaisku, armeija, hyökkäys 
+Topic 63 Top Words:
+ 	 Highest Prob: sähkö, sähköverkko, puu, myrsky, aika, alue, aiheuttaa 
+ 	 FREX: sähköttömät, katkoa, myrsky, ukkonen, sähkövika, sähkökatko, käyttöpäällikkö 
+ 	 Lift: myrskylukema, puuskittainen, vikakorjaus, vika-partio, seijamyrsky, ukkospuuska, ukkosmyrsky 
+ 	 Score: sähkökatko, sähköttömät, sähköverkko, myrsky, elenia, sähkölinja, sähkövika 
+Topic 64 Top Words:
+ 	 Highest Prob: kaupunki, helsinki, rakentaa, vuosi, uusi, vanha, valmistua 
+ 	 FREX: remontti, arkkitehti, kunnostaa, peruskorjaus, remontoida, kauppakeskus, työmaa 
+ 	 Lift: kehärata, arkkitehtitoimisto, kaupunkikuva, kalasatama, jätkäsaari, tornitalo, liikennejärjestely 
+ 	 Score: remontti, peruskorjaus, arkkitehti, kunnostaa, katu, remontoida, rakennus 
+Topic 65 Top Words:
+ 	 Highest Prob: euro, vero, hinta, vuosi, nostaa, korotus, maksaa 
+ 	 FREX: korottaa, korotus, verotus, energiavero, veronkorotus, vero, valtiovarainministeriö 
+ 	 Lift: verotaso, hoitokulu, tupakkavero, hoitokulku, tuloverotus, perusmaksu, verokiristys 
+ 	 Score: korotus, verotus, vero, korottaa, veronkorotus, energiavero, hinnankorotus 
+Topic 66 Top Words:
+ 	 Highest Prob: maa, kone, vuosi, lentokone, lentää, matka, kilometri 
+ 	 FREX: laskeutua, nasa, avaruus, lentokone, lentäjä, avaruushallinto, satelliitti 
+ 	 Lift: asteroidi, aurinkolentokone, aurinkotuuli, maailmanympärilento, magneettikenttä, piccard, tähtitieteilijä 
+ 	 Score: nasa, avaruus, avaruushallinto, luotain, laskeutua, lentokone, kiertorata 
+Topic 67 Top Words:
+ 	 Highest Prob: maakaasu, hanke, rakentaa, rakentaminen, nesteyttää, suomi, kaasu 
+ 	 FREX: nesteyttää, gasum, terminaali, lngterminaali, viro, lngn, lng 
+ 	 Lift: jännes, kaasuterminaali, lngn, lngterminaali, maakaasuterminaali, manga, terminaalihanke 
+ 	 Score: nesteyttää, gasum, maakaasu, lngterminaali, kaasuputki, terminaali, lngn 
+Topic 68 Top Words:
+ 	 Highest Prob: euro, vuosi, laitos, miljoona, uusi, tuottaa, rakentaa 
+ 	 FREX: laitos, voimalaitos, koekäyttö, kaukolämpö, valmistua, lämpölaitos, rakennustyö 
+ 	 Lift: kattilalaitos, bioöljylaitos, prosessihöyry, biolämpölaitos, aluelämpö, biolämpökeskus, biolämpö 
+ 	 Score: kaukolämpö, voimalaitos, laitos, megawatti, voimala, lämpölaitos, lämpö 
+Topic 69 Top Words:
+ 	 Highest Prob: aiheuttaa, kaasu, ilma, aine, vaarallinen, maaperä, terveys 
+ 	 FREX: saastua, pikihiukkanen, pitoisuus, näyte, ilmalaatu, puhdistaminen, terveys 
+ 	 Lift: radonmittaus, radonpitoisuus, pilaantunut, altistuminen, hiukkanenpitoisuus, becquerel, keuhkosyöpä 
+ 	 Score: pitoisuus, aine, pikihiukkanen, saastua, ilmalaatu, kemikaali, pohjavesi 
+Topic 70 Top Words:
+ 	 Highest Prob: ajaa, rata, kausi, kisa, kierros, kilpailu, aika 
+ 	 FREX: mclaren, räikkönen, kimi, aika-ajo, formula, ferrari, schumacher 
+ 	 Lift: coulthard, ferrarikuski, kierrosaika, rubens, trulli, barrichello, etusiipi 
+ 	 Score: mclaren, mmsarja, kimi, ferrari, räikkönen, aika-ajo, osakilpailu 
+Topic 71 Top Words:
+ 	 Highest Prob: puu, turve, polttoaine, metsä, käyttö, käyttää, polttaa 
+ 	 FREX: hake, energiapuu, metsähake, metsänomistaja, puuenergia, pelletti, metsäenergia 
+ 	 Lift: pienpuu, ainespuu, kiinto-kuutio, puumarkkinat, kuitupuu, puuenergia, energiapuu 
+ 	 Score: turve, hake, puu, energiapuu, metsähake, pelletti, puuenergia 
+Topic 72 Top Words:
+ 	 Highest Prob: tulla, moni, pitää, suuri, yksi, sanoa, panna 
+ 	 FREX: moni, panna, muutama, tulla, vasta, yksi, pitää 
+ 	 Lift: panna, pelkästään, pian, ainoa, moni, raha, muutama 
+ 	 Score: panna, raha, moni, pelkästään, tulla, pitää, tapa 	

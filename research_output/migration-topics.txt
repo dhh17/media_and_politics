@@ -1,0 +1,455 @@
+Show in New WindowClear OutputExpand/Collapse Output
+Modify Chunk OptionsRun All Chunks AboveRun Current Chunk
+Show in New WindowClear OutputExpand/Collapse Output
+Modify Chunk OptionsRun All Chunks AboveRun Current ChunkModify Chunk OptionsRun All Chunks AboveRun Current Chunk
+Show in New WindowClear OutputExpand/Collapse Output
+Topic 1 Top Words:
+ 	 Highest Prob: syyria, presidentti, al-assad, hallinto, bashar, venäjä, libya 
+ 	 FREX: al-assad, bashar, kansannousu, gaddafi, muammar, saudi-arabia, jemen 
+ 	 Lift: muammar, al-assad, zine, bashar, al-mali, alaviitti, assad 
+ 	 Score: al-assad, bashar, syyria, libya, muammar, gaddafi, turvallisuusneuvosto 
+Topic 2 Top Words:
+ 	 Highest Prob: maa, laiton, raja, laittomasti, valvonta, oleskella, viisumi 
+ 	 FREX: tarkastus, schengenalue, oleskella, laittomasti, rajavalvonta, rajatarkastus, valvonta 
+ 	 Lift: schengensopimus, sisä-rajatarkastus, biometrinen, travemünde, henkilöpaperit, henkilöllisyystodistus, tarkastus 
+ 	 Score: laittomasti, rajatarkastus, schengenalue, rajavalvonta, laiton, oleskella, viisumi 
+Topic 3 Top Words:
+ 	 Highest Prob: hakija, turvapaikanhakija, odottaa, maahanmuuttovirasto, päätös, käsittely, hakemus 
+ 	 FREX: käsittelyaika, hakija, nopeuttaa, hakemus, ruuhka, ylitarkastaja, hakijamäärä 
+ 	 Lift: käsittelyaika, hakijamäärä, säilöönottoyksikkö, turvapaikkapuhuttelu, ruuhkautua, nopeutua, turvapaikkatutkinta 
+ 	 Score: maahanmuuttovirasto, hakija, turvapaikkahakemus, käsittelyaika, hakemus, turvapaikkapäätös, hakijamäärä 
+Topic 4 Top Words:
+ 	 Highest Prob: pakolainen, kunta, ottaa, vuosi, vastaanottaa, kiintiöpakolainen, kaupunki 
+ 	 FREX: kiintiöpakolainen, elykeskus, ely-keskus, kuntapaikka, vastaanottaminen, kuntapaikko, vastaanottaa 
+ 	 Lift: elinkeinokeskus, pakolainenkoordinaattori, vastaanottosopimus, suokonautio, kuntapaikko, maahanmuuttopäällikkö, kuntakorvaus 
+ 	 Score: kiintiöpakolainen, kunta, elykeskus, ely-keskus, kuntapaikka, kuntapaikko, vastaanottaminen 
+Topic 5 Top Words:
+ 	 Highest Prob: italia, välimeri, siirtolainen, meri, saari, ihminen, eurooppa 
+ 	 FREX: alus, hukkua, vene, välimeri, rannikkovartiosto, rannikko, laiva 
+ 	 Lift: laivaturma, nostrum, siirtolainenvene, vartiolaiva, ceuta, melilla, pakolainenvene 
+ 	 Score: alus, välimeri, rannikkovartiosto, vene, libya, hukkua, rannikko 
+Topic 6 Top Words:
+ 	 Highest Prob: talous, taloudellinen, kasvu, talouskasvu, julkinen, valtio, maahanmuutto 
+ 	 FREX: talouskasvu, bruttokansantuote, talous, vienti, sijoittaja, investointi, aikaväli 
+ 	 Lift: kasvuennuste, velkataakka, valuuttarahasto, maailmantalous, imf, talouskasvu, ohjauskorko 
+ 	 Score: talouskasvu, talous, bruttokansantuote, investointi, euroalue, kansantalous, tuottavuus 
+Topic 7 Top Words:
+ 	 Highest Prob: vapaaehtoinen, auttaa, punainen, risti, apu, spr, suomi 
+ 	 FREX: vapaaehtoistyö, lahjoittaa, vapaaehtoinen, risti, lahjoitus, keräys, punainen 
+ 	 Lift: lipaskeräys, nälkäpäiväkeräys, punainenristi, katastrofirahasto, tavaralahjoitus, vaatelahjoitus, auttaahalu 
+ 	 Score: spr, risti, vapaaehtoinen, keräys, seurakunta, punainen, vapaaehtoistyö 
+Topic 8 Top Words:
+ 	 Highest Prob: vastaanottokeskus, turvapaikanhakija, tila, keskus, paikka, maahanmuuttovirasto, perustaa 
+ 	 FREX: hätämajoitus, majoituspaikka, hätämajoitusyksikkö, hätämajoitustila, majoittaa, yksikkö, majoitustila 
+ 	 Lift: myllyhovi, kontioniemi, patjamajoitus, suorama, -paikka, -paikko, baronakonserni 
+ 	 Score: vastaanottokeskus, spr, maahanmuuttovirasto, hätämajoitus, turvapaikanhakija, hätämajoitusyksikkö, majoittaa 
+Topic 9 Top Words:
+ 	 Highest Prob: myydä, ostaa, kauppa, tuote, ruoka, hinta, valmistaa 
+ 	 FREX: tuote, liha, kauppias, maistua, kuluttaja, peruna, valmistaa 
+ 	 Lift: kastike, halaliha, halalliha, juusto, ruokalista, chili, ruokalaji 
+ 	 Score: tuote, myynti, myydä, ruoka, ostaa, kauppias, ravintola 
+Topic 10 Top Words:
+ 	 Highest Prob: poliisi, ampua, loukkaantua, ihminen, kuolla, kaupunki, kertoa 
+ 	 FREX: loukkaantua, ampua, mellakka, sytyttää, välikohtaus, levottomuus, väkijoukko 
+ 	 Lift: tainnutuskranaatti, mellakkapoliisi, ammuskelu, mellakoitsija, mellakoija, ampumavälikohtaus, rynnäköidä 
+ 	 Score: loukkaantua, ampua, mielenosoittaja, poliisi, pidättää, kyynelkaasu, aseistautua 
+Topic 11 Top Words:
+ 	 Highest Prob: luku, vastaus, esim, hyvinvointi, laaja, antti, matti 
+ 	 FREX: ay-liike, hiilamo, hyvinvointivaltio, tulonsiirto, tuloero, työväenliike, soininvaara 
+ 	 Lift: aspara, wiberg, vaula, almila, kotro, hiilamo, hotinen 
+ 	 Score: aspara, ay-liike, almila, wiberg, hiilamo, riiko, kotro 
+Topic 12 Top Words:
+ 	 Highest Prob: asia, puheenjohtaja, päättää, valtuusto, päätös, kaupunki, kunta 
+ 	 FREX: valtuusto, kaupunginvaltuusto, kaupunginjohtaja, valtuutettu, kaupunginhallitus, kuntalainen, valtuustoryhmä 
+ 	 Lift: valtuustoaloite, kouluverkko, valtuustokausi, kaupunginvaltuusto, valtuustoryhmä, valtuutettu, valtuusto 
+ 	 Score: valtuusto, kaupunginhallitus, valtuutettu, kaupunginvaltuusto, kaupunginjohtaja, valtuustoryhmä, kuntalainen 
+Topic 13 Top Words:
+ 	 Highest Prob: kielteinen, maahanmuuttovirasto, turvapaikka, päätös, turvapaikkapäätös, turvapaikanhakija, kotimaa 
+ 	 FREX: turvapaikkapäätös, kielteinen, suojelu, palautus, turvapaikkahakemus, lähtömaa, maahanmuuttovirasto 
+ 	 Lift: maalinjauksi, maalinjaus, pakkopalautus, päätöskäytäntö, turvallisuusarvio, maatieto, turvapaikkalinja 
+ 	 Score: maahanmuuttovirasto, turvapaikkapäätös, turvapaikkahakemus, kielteinen, irakilainen, hakija, turvapaikkayksikkö 
+Topic 14 Top Words:
+ 	 Highest Prob: new, york, yhdysvallat, amerikkalainen, luku, musta, rasismi 
+ 	 FREX: los, angeles, king, york, new, nelson, hollywood 
+ 	 Lift: angeles, louisiana, los, amy, stone, mississippi, oscargaala 
+ 	 Score: york, new, angeles, los, elokuva, hollywood, amerikkalainen 
+Topic 15 Top Words:
+ 	 Highest Prob: karkottaa, pitää, käyttää, aika, tulla, kannattaa, kertoa 
+ 	 FREX: lintu, konsti, kasvi, haju, hyönteinen, laite, hyttynen 
+ 	 Lift: hirvikärpänen, siivekäs, torjunta-aine, karkote, karkotin, tuholainen, yhdiste 
+ 	 Score: lintu, hyönteinen, kasvi, lokki, karkottaa, karkotin, eläin 
+Topic 16 Top Words:
+ 	 Highest Prob: luku, esim, unto, yle, toki, artikkeli, kepu 
+ 	 FREX: unski, kangasluoma, kepu, unto, perässähiihtäjä, hesari, postaus 
+ 	 Lift: kurtakko, perässähiihtäjäblogi, kaitera, skoglund, virrankoski, unski, kangasluoma 
+ 	 Score: unski, kangasluoma, perässähiihtäjä, kepu, kaitera, salenius, kurtakko 
+Topic 17 Top Words:
+ 	 Highest Prob: siis, käyttää, kirjoittaja, elää, maailma, ajatus, jokin 
+ 	 FREX: maailmankuva, ajattelu, teoria, kirjoittaja, käsite, totuus, kupla 
+ 	 Lift: algoritmi, sarkasmi, äärimmäisyys, evoluutio, adjektiivi, suodattaa, diskurssi 
+ 	 Score: maailmankuva, kirjoittaja, feminismi, ajattelu, kolumnisti, filosofi, feministi 
+Topic 18 Top Words:
+ 	 Highest Prob: järjestää, tapahtuma, viettää, vuosi, päivä, juhla, muu 
+ 	 FREX: juhla, juhlia, viettää, tanssia, linna, juhlistaa, tanssi 
+ 	 Lift: pääsiäinenkokko, lankalauantai, jouluperinne, juhlatilaisuus, festari, joulujuhla, juhla 
+ 	 Score: juhla, juhlia, tanssi, musiikki, viettää, tanssia, laulaa 
+Topic 19 Top Words:
+ 	 Highest Prob: helsinki, yliopisto, sanoma, luku, professori, lehti, kirjoittaa 
+ 	 FREX: hsfi, yrjö, digitaalinen, laboratorio, tieteellinen, sanomatalo, sanomattalo 
+ 	 Lift: yhtiökokous, mediatora, hsfi, imagelehti, paakkanen, laboratorio, levikki 
+ 	 Score: yrjö, sanomatalo, sanomattalo, laboratorio, hsfi, digitaalinen, tieteellinen 
+Topic 20 Top Words:
+ 	 Highest Prob: parhaaksi, valita, oma, muu, aika, vuosi, tehdä 
+ 	 FREX: parhaaksi, saaja, nobel, rauhanpalkinto, palkinto, feministi, homous 
+ 	 Lift: parhaaksi, nobelkomitea, nobelpalkinto, ennakkokäsitys, koutaniemi, journalistipalkinto, cheek 
+ 	 Score: parhaaksi, nobel, palkinto, rauhanpalkinto, ehdokas, feministi, feminismi 
+Topic 21 Top Words:
+ 	 Highest Prob: maahanmuuttaja, työ, työpaikka, työntekijä, työtön, työvoima, työnantaja 
+ 	 FREX: työllistyä, työnantaja, työllistyminen, työvoimapula, työmarkkinat, työvoima, työtön 
+ 	 Lift: kaupunkimaantiede, työvoimareservi, pitkäaikainenasunnottomuus, kyntäjä, pitkäaikaisasunnoton, työllistyä, työvoimapula 
+ 	 Score: työllistyminen, työllistyä, työmarkkinat, työvoima, työperäinen, työvoimapula, työnantaja 
+Topic 22 Top Words:
+ 	 Highest Prob: unioni, eu-maa, jäsenmaa, eurooppa, komissio, bryssel, ranska 
+ 	 FREX: komissio, jäsenmaa, huippukokous, eukomissio, bryssel, eurooppa-neuvosto, eu-maa 
+ 	 Lift: oikeuskomissaari, eu-johtaja, eu-johtaji, eurooppa-neuvosto, jean-claude, juncker, tusk 
+ 	 Score: jäsenmaa, eu-maa, komissio, huippukokous, unioni, eukomissio, bryssel 
+Topic 23 Top Words:
+ 	 Highest Prob: surmata, epäillä, murha, kuolla, vuosi, pidättää, vastaan 
+ 	 FREX: surmata, murha, pakistan, sotarikos, murhata, osama, bin 
+ 	 Lift: radova, srebrenica, yhdysvaltain, italian, ruotsissa, yhdysvalloissa, serbijohtaja 
+ 	 Score: surmata, murha, pidättää, al-qaida, laden, sotarikos, pommi-isku 
+Topic 24 Top Words:
+ 	 Highest Prob: isku, terrorismi, terroriisku, terroristi, pariisi, ranska, tehdä 
+ 	 FREX: terroriisku, terroristi, radikalisoitua, suojelupoliisi, terrorismi, supo, isku 
+ 	 Lift: molenbee, hebdo, krekari, satiirilehti, krekar, suppo, supo 
+ 	 Score: terroriisku, terrorismi, terroristi, isku, terroristijärjestö, suojelupoliisi, radikalisoitua 
+Topic 25 Top Words:
+ 	 Highest Prob: luku, aika, suomalainen, vanha, suomi, jokin, kieli 
+ 	 FREX: muokata, suomalaisuus, ilmaisu, sukupolvi, kirjallisuus, murre, vuosisata 
+ 	 Lift: yleiskieli, kansanluonne, nostalginen, kielitieteilijä, kirjaarvio, kielentutkija, rson 
+ 	 Score: suomalaisuus, kirjallisuus, kieli, luku, kirja, lukija, sivistys 
+Topic 26 Top Words:
+ 	 Highest Prob: ihminenkauppa, romania, romani, uhri, kerjääminen, poliisi, kerjäläinen 
+ 	 FREX: kerjääminen, romani, romania, kerjäläinen, kerjätä, romanikerjäläinen, romanialainen 
+ 	 Lift: hirundo, ber-ex, jansa, marjayritys, kerjäläinentyöryhmä, finnwatch, leiriytyminen 
+ 	 Score: romania, ihminenkauppa, romani, kerjääminen, kerjäläinen, prostituutio, kerjätä 
+Topic 27 Top Words:
+ 	 Highest Prob: turvapaikka, päätös, oikeus, vuosi, hakea, karkottaa, luovuttaa 
+ 	 FREX: korkein, asianajaja, karkotus, karkotuspäätös, hallinto-oikeus, assange, korkki 
+ 	 Lift: assanki, lontoosuurlähetystö, valituslupahakemus, lontoolähetystö, karkotuspäätös, assange, diplomaattinenähke 
+ 	 Score: assanki, assange, hallinto-oikeus, karkotus, karkotuspäätös, ecuador, asianajaja 
+Topic 28 Top Words:
+ 	 Highest Prob: poliisi, epäillä, mies, tapaus, rikos, turvapaikanhakija, vastaanottokeskus 
+ 	 FREX: rikosilmoitus, pahoinpitely, ahdistelu, poliisilaitos, pola, tuhotyö, rikoskomisario 
+ 	 Lift: syttymissyy, asematunneli, palopaikka, apulainenpoliisipäällikkö, apulais-poliisipäällikkö, hälytystehtävä, tuhotyö 
+ 	 Score: poliisi, epäilty, vastaanottokeskus, poliisilaitos, rikosilmoitus, tutkinta, tutkinnanjohtaja 
+Topic 29 Top Words:
+ 	 Highest Prob: miljoona, pakolainen, paeta, maailma, ihminen, syyria, apu 
+ 	 FREX: unhcr, pakolainenjärjestö, humanitaarinen, unicef, avustusjärjestö, pakolaisleiri, libanon 
+ 	 Lift: dadaab, wfpn, undp, ebolaepidemia, ruokaohjelma, lapsiapujärjestö, wfp 
+ 	 Score: unhcr, pakolainenjärjestö, pakolaisleiri, syyria, avustusjärjestö, wfp, humanitaarinen 
+Topic 30 Top Words:
+ 	 Highest Prob: määrä, ampnbsp, vuosi, viime, prosentti, luku, kasvaa 
+ 	 FREX: ampnbsp, prosentti, määrä, verrata, laskea, puolet, osuus 
+ 	 Lift: edellisvuosi, ampnbspn, kaksinkertaistua, ampnbspeen, kokonaismäärä, kolminkertaistua, ampnbsp 
+ 	 Score: ampnbsp, prosentti, määrä, kasvu, luku, edellisvuosi, tilasto 
+Topic 31 Top Words:
+ 	 Highest Prob: puolue, ranska, vaali, parlamentti, vaalea, ääni, prosentti 
+ 	 FREX: pen, marine, parlamenttivaali, nicolas, sarkozy, vapauspuolue, vaali 
+ 	 Lift: hofer, fillo, filto, fpön, sarkozya, marine, aluevaalea 
+ 	 Score: puolue, marine, parlamenttivaali, vaali, pen, presidentinvaali, sarkozy 
+Topic 32 Top Words:
+ 	 Highest Prob: silmä, tunne, hetki, tuntua, viimeinen, ajatella, elämä 
+ 	 FREX: ahdistua, suru, onnellinen, jaksaa, ahdistaa, itkeä, tuijottaa 
+ 	 Lift: kalpea, kolista, suunnattomasti, ahdistua, nojatuoli, kylpeä, lohdutus 
+ 	 Score: jaksaa, onnellinen, ahdistua, itkeä, suru, tuijottaa, ihana 
+Topic 33 Top Words:
+ 	 Highest Prob: rasismi, puolue, maahanmuutto, poliittinen, suomi, sanoa, pitää 
+ 	 FREX: sanoutua, maahanmuuttokriittinen, retoriikka, nuorisojärjestö, breivik, monikulttuurisuus, behring 
+ 	 Lift: breivikki, breivi, joukkomurhaaja, behring, breivik, kokoomusnuori, tavoiteohjelma 
+ 	 Score: behring, breivi, breivik, kokoomusnuori, perus-suomalainen, rasismi, puolue 
+Topic 34 Top Words:
+ 	 Highest Prob: kreikka, pakolainen, eurooppa, turvapaikanhakija, unkari, raja, turkki 
+ 	 FREX: unkari, makedonia, balkan, serbia, kreikka, itävalta, kroatia 
+ 	 Lift: idomeni, serbiavastainen, röszken, chios, käsittelykeskus, mikl-leitner, uudelleensijoittaminen 
+ 	 Score: kreikka, unkari, serbia, makedonia, eu-maa, itävalta, slovenia 
+Topic 35 Top Words:
+ 	 Highest Prob: kaupunki, helsinki, asunto, rakentaa, uusi, vuosi, tila 
+ 	 FREX: vuokra, asunnoton, neliö, vuokra-asunto, tontti, remontti, pääkaupunkiseutu 
+ 	 Lift: vuokrataso, nuorisotila, lainaaja, vuokralainen, rakennuttaja, maahanmuuttajayrittäjä, peruskorjata 
+ 	 Score: pääkaupunkiseutu, vuokra-asunto, vuokra, asunnoton, neliö, asunto, kirjasto 
+Topic 36 Top Words:
+ 	 Highest Prob: luku, maailma, demokratia, poliittinen, valtio, politiikka, valta 
+ 	 FREX: nationalismi, globalisaatio, vallankumous, eliitti, länsimainen, demokratia, kansallisvaltio 
+ 	 Lift: anc, globalisoitua, siirtomaavalta, imperialismi, kansallisvaltio, kolonialismi, nationalismi 
+ 	 Score: demokratia, nationalismi, kansallisvaltio, eliitti, globalisaatio, vallankumous, populismi 
+Topic 37 Top Words:
+ 	 Highest Prob: maahanmuuttaja, tavoite, muu, toiminta, muassa, hanke, yhteistyö 
+ 	 FREX: kotouttaminen, hanke, edistää, valtakunnallinen, kehittää, kotouttaa, kotoutua 
+ 	 Lift: liikuntatoiminta, koulutustarjonta, tunnustuspalkinto, sosiaali-rahasto, kotouttaatyö, kotouttaminentyö, valtionavustus 
+ 	 Score: kotouttaminen, maahanmuuttaja, kotoutua, edistää, hanke, projektipäällikkö, palvelu 
+Topic 38 Top Words:
+ 	 Highest Prob: oleskelulupa, suomi, perhe, hakea, ulkomaalainen, asua, kansalaisuus 
+ 	 FREX: perheyhdistäminen, kansalaisuus, perheenjäsen, oleskelulupa, toimeentulotuki, ulkomaalainenlaki, yhdistäminen 
+ 	 Lift: perhekokoaja, toimeentulovaatimus, perhesiteethakemus, perheyhdistäminenprosessi, toimeentuloedellytys, perheyhdistäminenhakemus, perheenyhdistäminen 
+ 	 Score: oleskelulupa, perheyhdistäminen, ulkomaalainenlaki, maahanmuuttovirasto, toimeentulotuki, oleskelulupahakemus, kansalaisuus 
+Topic 39 Top Words:
+ 	 Highest Prob: pakolainen, joukko, alue, hallitus, presidentti, sudan, maa 
+ 	 FREX: darfur, rauhanturvaaja, sudan, tshad, kosovo, albaani, rauhanturvaoperaatio 
+ 	 Lift: eujoukot, janjaweed, länsi-timor, ndjamena, afrikkalainenheimo, al-bashir, al-bashiri 
+ 	 Score: darfur, rauhanturvaaja, tshad, sudan, keski-afrikka, kosovo, rauhanturvaoperaatio 
+Topic 40 Top Words:
+ 	 Highest Prob: eurooppa, ratkaisu, pakolainenkriisi, vastuu, kriisi, ongelma, tilanne 
+ 	 FREX: pakolainenkriisi, kriisi, ratkaisu, hätä, vastuu, ratkaiseminen, pakolainentilanne 
+ 	 Lift: schengenjärjestelmä, kansainvaellus, lähtöalue, väkiparta, sarvamaa, toimintakykyinen, yhteisvastuu 
+ 	 Score: pakolainenkriisi, kriisi, pakolainentilanne, turvapaikanhakija, hätä, ratkaisu, pakolaisvirta 
+Topic 41 Top Words:
+ 	 Highest Prob: laki, oikeus, lainsäädäntö, koskea, kieltää, pitää, esimerkiksi 
+ 	 FREX: lainsäädäntö, säätää, laki, pykälä, oikeusministeriö, perustuslaki, velvollisuus 
+ 	 Lift: ostokielto, valtiosääntöoikeus, yhdenvertaisuusvaltuutettu, apulaisoikeusasiamies, oikeusasiamies, jonkka, täyskielto 
+ 	 Score: lainsäädäntö, laki, oikeusministeriö, perustuslaki, lakiesitys, säätää, kieltää 
+Topic 42 Top Words:
+ 	 Highest Prob: ruotsi, ruotsalainen, tanska, norja, tukholma, pohjoismaa, nyheter 
+ 	 FREX: nyheter, dagens, tanska, ruotsidemokraatti, tukholma, svt, ruotsalainen 
+ 	 Lift: artikelaspxprogramid, dagbladet, expressen, expressenlehti, regionalt, sverigesradiose, wwwdn 
+ 	 Score: ruotsi, nyheter, ruotsalainen, tanska, ruotsidemokraatti, tukholma, svt 
+Topic 43 Top Words:
+ 	 Highest Prob: yle, uutiset, uutinen, suomi, aihe, https, kertoa 
+ 	 FREX: uutiset, uutinen, yle, https, artikkeli, astudio, radio 
+ 	 Lift: uutinenluokka, selkokeskus, uutinenvahti, ajankohtainentoiminta, uutiset, artike, aamu-tvn 
+ 	 Score: yle, uutiset, uutinen, https, selkouutinen, astudio, selkouutiset 
+Topic 44 Top Words:
+ 	 Highest Prob: hoito, lääkäri, terveys, hoitaa, sairaala, potilas, sairaus 
+ 	 FREX: potilas, hoitaja, terveys, sairaus, hoito, terveyskeskus, sairastua 
+ 	 Lift: infektiolääkäri, poliklinikka, tuberkuloositapaus, turvakotipaikka, turvakotipaikko, lähete, hivtartunta 
+ 	 Score: potilas, hoito, lääkäri, sairaus, terveys, thl, terveydenhuolto 
+Topic 45 Top Words:
+ 	 Highest Prob: maakunta, lappi, rovaniemi, asukas, kemi, kunta, maahanmuutto 
+ 	 FREX: rovaniemi, kemi, väkiluku, pohjois-karjala, ennakkotieto, tilastokeskus, kemijärvi 
+ 	 Lift: ennakko-tilasto, muuttovoitto, väkikato, kemi-tornio, muuttotappio, tervola, pohjoiskarjalainen 
+ 	 Score: kemi, rovaniemi, lappi, tilastokeskus, väkiluku, muuttovoitto, maakunta 
+Topic 46 Top Words:
+ 	 Highest Prob: luku, musiikki, ooppera, laulaa, orkesteri, säveltäjä, teos 
+ 	 FREX: ooppera, orkesteri, säveltäjä, kapellimestari, melodia, sinfonia, sinfoniaorkesteri 
+ 	 Lift: libretto, sointi, ylikapellimestari, verdi, oopperatalo, melodia, filharmonikko 
+ 	 Score: ooppera, säveltäjä, orkesteri, sopraano, solisti, kapellimestari, melodia 
+Topic 47 Top Words:
+ 	 Highest Prob: musiikki, teatteri, esitys, muusikko, harri, jukka, pekka 
+ 	 FREX: yhtye, bändi, kaupunginteatteri, harri, muusikko, peltola, artisti 
+ 	 Lift: teatterinjohtaja, musiikkiala, radiotoimittaja, sormunen, peltola, hietala, bonnier 
+ 	 Score: yhtye, musiikki, muusikko, kaupunginteatteri, bändi, teatteri, laulu 
+Topic 48 Top Words:
+ 	 Highest Prob: luku, historia, maailmansota, vuosi, sota, juutalainen, neuvostoliitto 
+ 	 FREX: wikipedia, wiki, maailmansota, keskitysleiri, natsi, juutalainen, hitler 
+ 	 Lift: kuolemanleiri, wiki, arkeologi, säilynoja, arkeologinen, tuhoamisleiri, keskitysleiri 
+ 	 Score: luku, juutalainen, wikipedia, wiki, maailmansota, natsi, hitler 
+Topic 49 Top Words:
+ 	 Highest Prob: kieli, suomi, maahanmuuttaja, opiskella, opetus, koulu, opettaja 
+ 	 FREX: äidinkieli, oppilas, oppiminen, opiskelu, peruskoulu, opinnot, opetus 
+ 	 Lift: maahanmuuttajaopiskelija, kymppiluokka, lukioopinnot, lukioopinto, ammattiopinnot, maahanmuuttajaoppilas, kurssilainen 
+ 	 Score: kieli, opetus, kielitaito, opiskella, oppilas, opiskelu, oppiminen 
+Topic 50 Top Words:
+ 	 Highest Prob: vuotias, perhe, elämä, lapsi, äiti, isä, asua 
+ 	 FREX: äiti, vaimo, tytär, isä, perhe, poika, sukulainen 
+ 	 Lift: sisarus, ikävöidä, skype, suomalaistua, naimisiin, äiti, aviomies 
+ 	 Score: vuotias, äiti, isä, tytär, perhe, vaimo, poika 
+Topic 51 Top Words:
+ 	 Highest Prob: kansanedustaja, perus-suomalainen, puheenjohtaja, timo, soini, hallitus, perussuomalaiset 
+ 	 FREX: soini, eduskuntaryhmä, sipilä, kesk, perussuomalaiset, stubb, perus-suomalainen 
+ 	 Lift: pkirjoittua, kempelekoti, slunga-poutsalo, yhteinenkokous, yhteis-kokous, puoluevaltuusto, satonen 
+ 	 Score: perus-suomalainen, perussuomalaiset, soini, eduskuntaryhmä, kesk, sipilä, kansanedustaja 
+Topic 52 Top Words:
+ 	 Highest Prob: liikkua, alue, eläin, poliisi, koira, karhu, karkottaa 
+ 	 FREX: karhu, asutus, susi, koira, metsästäjä, eläin, moottoritie 
+ 	 Lift: karhuhavainto, riistanhoitoyhdistys, suurpeto, riistakeskus, asutus, hirvikolari, ihminenasutus 
+ 	 Score: karhu, asutus, riistanhoitoyhdistys, eläin, koira, susi, metsästäjä 
+Topic 53 Top Words:
+ 	 Highest Prob: armeija, taistelu, kaupunki, pakolainen, joukko, raja, paeta 
+ 	 FREX: siviili, armeija, tulittaa, aleppo, kapinallinen, taistelu, pommittaa 
+ 	 Lift: idlibi, idlib, kilis, jisr, itä-aleppo, tykkituli, maahyökkäys 
+ 	 Score: siviili, kapinallinen, uutistoimisto, ilmaisku, armeija, syyria, tulittaa 
+Topic 54 Top Words:
+ 	 Highest Prob: rasismi, pelata, jalkapallo, ottelu, pelaaja, rasistinen, sanoa 
+ 	 FREX: jalkapalloliitto, ottelu, rasistisesti, uefa, fifa, jalkapallo, pelaaja 
+ 	 Lift: balotelli, blatter, jalkapalloliitto, sepp, uefa, rasistisesti, fifa 
+ 	 Score: ottelu, jalkapalloliitto, pelaaja, uefa, jalkapallo, rasismi, joukkue 
+Topic 55 Top Words:
+ 	 Highest Prob: teos, vuosi, kirja, taide, kirjailija, elokuva, taiteilija 
+ 	 FREX: taiteilija, taide, näyttely, teos, kirjailija, romaani, palkinto 
+ 	 Lift: elokuvajuhlat, finlandiapalkinto, weiwei, palkintoperustelu, kirjailijaliitto, pääpalkinto, blasim 
+ 	 Score: teos, taiteilija, näyttely, taide, romaani, elokuva, ensi-ilta 
+Topic 56 Top Words:
+ 	 Highest Prob: britannia, kansanäänestys, britti, david, cameron, euero, ero 
+ 	 FREX: euero, brexit, cameron, britti, eukansanäänestys, eu-jäsenyydä, brex 
+ 	 Lift: brexit-kampanja, brexitkampanja, farage, sturgeo, ukip, ukipi, ukippi 
+ 	 Score: euero, cameron, brexit, kansanäänestys, eu-jäsenyyde, eu-jäsenysi, eu-jäsenyysi 
+Topic 57 Top Words:
+ 	 Highest Prob: suomi, ministeri, sisäministeri, kok, hallitus, maahanmuutto, orpo 
+ 	 FREX: orpo, petteri, astrid, thors, kok, sisäministeri, stt 
+ 	 Lift: eurooaministeri, eurooppaministeri, holmlund, thors, väliraportti, sisäasiainministeri, astrid 
+ 	 Score: sisäministeri, kok, thors, petteri, eurooaministeri, astrid, eurooppaministeri 
+Topic 58 Top Words:
+ 	 Highest Prob: ukraina, venäjä, itä-ukraina, ukrainalainen, ampnbsp, venäläinen, krim 
+ 	 FREX: ukrainalainen, kiova, itä-ukraina, donetsk, ukraina, venäjämielinen, krim 
+ 	 Lift: luhansk, donetsk, venäjämielinen, kiova, omsk, ukrainalainen, harkova 
+ 	 Score: ukraina, itä-ukraina, ukrainalainen, donetsk, krim, kiova, venäjämielinen 
+Topic 59 Top Words:
+ 	 Highest Prob: vuonna, aikana, muun, eli, mielestä, ajan, mot 
+ 	 FREX: ampauml, ampaumlampauml, mot, tavalla, mielestä, omaa, perusteella 
+ 	 Lift: ampauml, ampaumlampaumln, ampaumlise, ampaumln, ampouml, enemm, kyllampauml 
+ 	 Score: ampauml, ampaumlampauml, mot, vuonna, aikana, kyllampauml, ampouml 
+Topic 60 Top Words:
+ 	 Highest Prob: kirkko, uskonto, uskonnollinen, muslimi, kristitty, seurakunta, islam 
+ 	 FREX: luterilainen, katolinen, paavi, pappi, piispa, uskontokunta, evankelisluterilainen 
+ 	 Lift: kansankirkko, kirkolliskokous, uskonnonopetus, tuomiokapituli, franciscus, naispappeus, rippikoulu 
+ 	 Score: kirkko, seurakunta, uskonto, uskonnollinen, kristitty, evankelisluterilainen, muslimi 
+Topic 61 Top Words:
+ 	 Highest Prob: venäjä, presidentti, niinistö, sauli, nato, suomi, ukraina 
+ 	 FREX: sauli, niinistö, ulko, turvallisuuspolitiikka, turvallisuuspoliittinen, nato, ulkopolitiikka 
+ 	 Lift: venäjäpakote, kultaranta, puolustusyhteistyö, toomas, sauli, turvallisuuskokous, turvallisuuspoliittinen 
+ 	 Score: niinistö, sauli, nato, venäjä, ukraina, presidentti, ulko 
+Topic 62 Top Words:
+ 	 Highest Prob: epäillä, poliisi, laiton, tutkia, tapaus, suomi, henkilö 
+ 	 FREX: keskusrikospoliisi, tutkinta, esitutkinta, järjestäytyä, väärentää, salakuljettaa, paljastua 
+ 	 Lift: auttaajärjestelmä, auttaminenjärjestelmä, ihminenkauppaepäily, rikollinenryhmä, paritusrikos, thaihierontapaikka, lardot 
+ 	 Score: esitutkinta, ihminenkauppa, rajavartiolaitos, epäilty, tutkinta, keskusrikospoliisi, maahantulo 
+Topic 63 Top Words:
+ 	 Highest Prob: elokuva, tarina, esittää, tehdä, luku, kohtaus, päähenkilö 
+ 	 FREX: kohtaus, päähenkilö, juoni, komedia, romanttinen, draama, käsikirjoittaja 
+ 	 Lift: pajukallio, loppuratkaisu, kohtaus, kauhuelokuva, netflix, juonikäänne, roolihenkilö 
+ 	 Score: elokuva, kohtaus, päähenkilö, komedia, käsikirjoittaja, romaani, katsoja 
+Topic 64 Top Words:
+ 	 Highest Prob: yhdysvallat, donald, trump, presidentti, trumppi, obama, barack 
+ 	 FREX: republikaani, trump, trumppi, tra, hillary, clinton, donald 
+ 	 Lift: jeb, yhdysvallatkirjeenvaihtaja, latinoäänestäjä, melania, nieto, obamacare, pence 
+ 	 Score: trump, trumppi, donald, republikaani, barack, obama, clinton 
+Topic 65 Top Words:
+ 	 Highest Prob: israel, palestiinalainen, presidentti, gaza, yhdysvallat, pääministeri, israelilainen 
+ 	 FREX: gaza, israel, israelilainen, länsiranta, palestiinalainen, palestiinalainenalue, palestiina 
+ 	 Lift: ehud, hamata, israelilainensotilas, juutalainenvaltio, palestiinalainenhallinto, zelaya, arafat 
+ 	 Score: israel, gaza, palestiinalainen, israelilainen, länsiranta, palestiinalainenalue, palestiinalainenhallinto 
+Topic 66 Top Words:
+ 	 Highest Prob: euro, hallitus, raha, valtio, miljoona, maksaa, leikata 
+ 	 FREX: säästö, korotus, työttömyysturva, budjetti, määräraha, leikkaus, työllisyys 
+ 	 Lift: säästökohde, asiakasmaksu, päivähoitooikeus, palkkaratkaisu, työllisyysmääräraha, peruspäiväraha, veroratkaisu 
+ 	 Score: työttömyysturva, säästö, korotus, työllisyys, sosiaali, euro, kunta 
+Topic 67 Top Words:
+ 	 Highest Prob: mielenosoitus, järjestää, vastustaa, vastaan, osoittaa, poliisi, mielenosoittaja 
+ 	 FREX: mielenosoitus, mielenilmaus, mielenosoittaja, marssia, marssi, rauhallisesti, katupartio 
+ 	 Lift: vastamielenosoittaja, vastamielenosoitus, kärrtorpi, kärrtorppi, mielenosoitusmarssi, katupartiotoiminta, uusnatistinen 
+ 	 Score: mielenosoitus, mielenosoittaja, mielenilmaus, äärioikeistolainen, uusnatsi, soldiers, odin 
+Topic 68 Top Words:
+ 	 Highest Prob: ihmisoikeusjärjestö, hallitus, järjestö, maa, kiina, amnestyä, international 
+ 	 FREX: ihmisoikeusjärjestö, amnestyä, international, watch, australia, myanmar, rights 
+ 	 Lift: papua-uuteen-guinea, rohingya, manussaari, papua-uuden-guinea, papua-uudessa-guinea, kyi, rakhine 
+ 	 Score: ihmisoikeusjärjestö, amnestyä, rights, international, watch, huma, myanmar 
+Topic 69 Top Words:
+ 	 Highest Prob: pelata, joukkue, voittaa, urheilu, peli, kisa, tulla 
+ 	 FREX: jääkiekko, urheilija, olympialaiset, urheilu, valmentaja, joukkue, mestaruus 
+ 	 Lift: kultamitali, sm-liiga, mestaruus, salibandy, mäkihyppy, jääkiekko, huippu-urheilu 
+ 	 Score: joukkue, pelaaja, urheilu, ottelu, valmentaja, urheilija, maajoukkue 
+Topic 70 Top Words:
+ 	 Highest Prob: nukkua, tunti, kylmä, auto, matka, pää, huone 
+ 	 FREX: nukkua, vieri, lattia, ulkona, huone, kävellä, ikkuna 
+ 	 Lift: kurvata, toppatakki, hytistä, viltti, pudistella, puistella, palella 
+ 	 Score: lattia, nukkua, piha, huone, ampnbsp, vieri, teltta 
+Topic 71 Top Words:
+ 	 Highest Prob: tuomita, tuomio, vuosi, syyte, vankeus, käräjäoikeus, mies 
+ 	 FREX: vankeus, tuomio, käräjäoikeus, syyttäjä, vankeusrangaistus, vankeustuomio, hovioikeus 
+ 	 Lift: ihminenkauppajuttu, ihminenkauppasyyte, oikeudenkäyntikulut, hovioikeus, vankeusrangaistus, sukupuoliyhteys, vankeus 
+ 	 Score: käräjäoikeus, vankeus, tuomio, syyte, syyttäjä, vankeusrangaistus, tuomita 
+Topic 72 Top Words:
+ 	 Highest Prob: venäjä, venäläinen, moskova, yhdysvallat, vladimir, putin, turvapaikka 
+ 	 FREX: snowden, snovde, tietovuotaja, edward, vakoilu, vladimir, nsa 
+ 	 Lift: snovde, šeremetjevo, snowä, snowden, snowetä, snownetä, snowtä 
+ 	 Score: snowden, snovde, tietovuotaja, edward, venäjä, vladimir, putin 
+Topic 73 Top Words:
+ 	 Highest Prob: lapsi, nuori, arki, vanhempi, koulu, perhe, aikuinen 
+ 	 FREX: päiväkoti, arki, aikuinen, vanhempi, harrastus, sosiaalityöntekijä, lapsiperhe 
+ 	 Lift: lapsiryhmä, turvapaikanhakijalapsi, kouluikäinen, yhtenäiskoulu, ekaluokkalainen, ystäväperhe, ala-kouluikäinen 
+ 	 Score: päiväkoti, arki, turvapaikanhakijalapsi, ohjaaja, lapsi, aikuinen, koulu 
+Topic 74 Top Words:
+ 	 Highest Prob: vesi, karkottaa, alue, sää, kesä, luonto, vuosi 
+ 	 FREX: lämpötila, sää, uhanalainen, sade, sateinen, ilmasto, järvi 
+ 	 Lift: ammattikalastaja, kalakanta, kalalaji, suojelualue, merimetso, ilmatiede, vesistö 
+ 	 Score: sää, luonto, lämpötila, kala, vesi, sade, pakkanen 
+Topic 75 Top Words:
+ 	 Highest Prob: venäjä, idhtml, neuvostoliitto, venäläinen, luku, viro, georgia 
+ 	 FREX: idhtml, georgia, georg, wallius, linkitys, latvia, tallinna 
+ 	 Lift: idhtml, mailtoanniina, saakashvili, linkitys, abhasia, etelä-ossetia, tbilisi 
+ 	 Score: idhtml, georgia, venäjä, wallius, neuvostoliitto, linkitys, etelä-ossetia 
+Topic 76 Top Words:
+ 	 Highest Prob: areena, yle, sarja, uusinta, dokumentti, ohjelma, osa 
+ 	 FREX: areena, uusinta, juontaja, dokumenttiprojekti, ulko-linja, jakso, radioteatteri 
+ 	 Lift: dok, suosikkisarja, dokumenttiprojekti, studiovieras, ulko-linja, damström, jahangir 
+ 	 Score: areena, uusinta, radioteatteri, dokumenttiprojekti, ulko-linja, kino, juontaja 
+Topic 77 Top Words:
+ 	 Highest Prob: turkki, recep, tayyip, turkkilainen, presidentti, erdoğan, erdoğani 
+ 	 FREX: erdoğan, erdoğani, recep, tayyip, vallankaappausyritys, erdogan, turkkilainen 
+ 	 Lift: akpn, akpuolue, fethullah, fideszi, gülen, erdoğania, saksi-anhalt 
+ 	 Score: recep, tayyip, erdoğan, erdoğani, afd, orbá, orbán 
+Topic 78 Top Words:
+ 	 Highest Prob: sanoa, tilanne, asia, mikään, jokin, todeta, pitää 
+ 	 FREX: mei, varmasti, tällainen, tietysti, miettiä, sellainen, toki 
+ 	 Lift: asukasyhdistys, kolehmainen, poliisiylijohtaja, järjestysvalvonta, poliisitoiminta, tallukka, tiedottaminen 
+ 	 Score: tietysti, poliisiylijohtaja, täällä, tällainen, varmasti, mei, miettiä 
+Topic 79 Top Words:
+ 	 Highest Prob: irak, isisin, isis, isä, kurdi, isinen, syyria 
+ 	 FREX: isia, isiä, isea, isis, mosul, isisin, isinen 
+ 	 Lift: isisliike, peshmergajoukko, sinjar, sinjari, jeside, jesidivähemmistö, al-abadi 
+ 	 Score: isisin, isinen, isea, isia, isiä, isis, mosul 
+Topic 80 Top Words:
+ 	 Highest Prob: turvapaikanhakija, saapua, tulla, turvapaikka, hakea, tulija, viikko 
+ 	 FREX: tulija, tornio, saapua, järjestelykeskus, turvapaikanhakija, turvapaikka, afganistanilainen 
+ 	 Lift: turvapaikkakuulustelu, järjestelykeskus, finnmark, linjaautollinen, tullivalvonta, pudas, länsiraja 
+ 	 Score: turvapaikanhakija, tornio, järjestelykeskus, tulija, saapua, turvapaikka, irakilainen 
+Topic 81 Top Words:
+ 	 Highest Prob: puolue, kokoomus, ehdokas, vaali, vihreä, politiikka, eduskuntavaali 
+ 	 FREX: eduskuntavaali, kuntavaali, vasemmistoliitto, demari, sdp, kuntavaalea, gallup 
+ 	 Lift: maahanmuuttajaehdokas, valtuustopaikka, kunnallinenvaalea, hsgalluppi, vaalikone, kuntavaalea, puoluekannatusmittaus 
+ 	 Score: kokoomus, sdp, vasemmistoliitto, eduskuntavaali, puolue, perus-suomalainen, perussuomalaiset 
+Topic 82 Top Words:
+ 	 Highest Prob: ampndash, vuotias, lippu, suomi, luku, vapaa, pääsy 
+ 	 FREX: elokuva-arkisto, eerikinkatu, tallberginkatu, teatterikuja, kanneltalo, malmitalo, ala-malmi 
+ 	 Lift: bassoradio, elfvik, kuntatie, peltolantie, seurasaaritie, shamrock, tribute 
+ 	 Score: ampndash, elokuva-arkisto, teatterikuja, ala-malmi, storyä, tallberginkatu, klaneettitie 
+Topic 83 Top Words:
+ 	 Highest Prob: liikenne, euro, matkustaja, maksaa, auto, yhtiö, aika 
+ 	 FREX: liikenne, matkustaja, lentoasema, vilkas, finnair, matkailija, lentoliikenne 
+ 	 Lift: matkustajaliikenne, trafi, matkustajamäärä, junavuoro, henkilöliikenne, bussiliikenne, liikennemäärä 
+ 	 Score: liikenne, matkustaja, etelä-karjala, imatra, lentoasema, matkustajamäärä, yleinenimpi 
+Topic 84 Top Words:
+ 	 Highest Prob: suomalainen, yhteiskunta, ihminen, kokea, suomi, asenne, kulttuuri 
+ 	 FREX: asenne, yhteiskunta, ennakkoluulo, esiin, ill, kulttuuri, suhtautuminen 
+ 	 Lift: nuorisotutkimusverkosto, asennetutkimus, asenne, ennakkoluulo, piilorasismi, maahanmuuttajayhteisö, erilaisuus 
+ 	 Score: rasismi, yhteiskunta, kulttuuri, asenne, ennakkoluulo, suomalainen, syrjintä 
+Topic 85 Top Words:
+ 	 Highest Prob: joku, mennä, mikään, tuntua, kukaan, ettei, ajatella 
+ 	 FREX: kaveri, nauraa, kiva, tykätä, oikeasti, porukka, jutella 
+ 	 Lift: kalja, läppä, amprdquokaikki, huikata, portsari, nikander, kaveriporukka 
+ 	 Score: kaveri, kiva, nauraa, tykätä, hauska, jutella, porukka 
+Topic 86 Top Words:
+ 	 Highest Prob: media, kirjoittaa, sosiaalinen, julkaista, facebook, kirjoitus, kommentti 
+ 	 FREX: kirjoitus, vihapuhe, kansaryhmä, facebook, sivusto, kiihottaminen, sananvapaus 
+ 	 Lift: sananvapausaihe, tekstisisältö, toimittajaopiskelija, uskorauha, apulainenvaltakunnansyyttäjä, apulais-valtakunnansyyttäjä, lehdistönvapausfi 
+ 	 Score: kiihottaminen, vihapuhe, rasistinen, facebook, kansaryhmä, kirjoitus, rasismi 
+Topic 87 Top Words:
+ 	 Highest Prob: käännyttää, venäjä, suomi, raja, venäläinen, rajavartiosto, rajanylityspaikka 
+ 	 FREX: rajavartiosto, rajanylityspaikka, käännyttää, raja-asema, itäraja, raja-jooseppi, salla 
+ 	 Lift: fadaye, fadayelin, fadayeli, maastoraja, storskog, apulainenkomentaja, apulais-komentaja 
+ 	 Score: käännyttää, rajavartiosto, rajanylityspaikka, raja-jooseppi, venäjä, raja-asema, vaalimaa 
+Topic 88 Top Words:
+ 	 Highest Prob: saksa, saksalainen, angela, liittokansleri, berliini, lehti, merke 
+ 	 FREX: spiegel, angela, liittokansleri, merkeli, merke, berliini, zeitung 
+ 	 Lift: wwwspiegelde, wwwweltde, maas, wwwfaznet, wwwbildde, ardn, bachmann 
+ 	 Score: liittokansleri, angela, saksa, merkeli, merke, saksalainen, berliini 
+Topic 89 Top Words:
+ 	 Highest Prob: maa, karkottaa, uutistoimisto, reuters, kertoa, yhdysvallat, afp 
+ 	 FREX: reuters, diplomaatti, ulkoministeriö, pohjois-korea, lähde, suurlähettiläs, uutistoimisto 
+ 	 Lift: jongun, iranilainendiplomaatti, jong-il, pjongjang, lähdes, atomienergiajärjestö, jong-un 
+ 	 Score: reuters, uutistoimisto, afp, lähdes, karkottaa, lähdet, ulkoministeri 
+Topic 90 Top Words:
+ 	 Highest Prob: tulla, moni, pitää, vuosi, tehdä, työ, haluta 
+ 	 FREX: moni, työ, käydä, maailma, tuntea, tulla, pitää 
+ 	 Lift: nimi, tuntea, moni, maailma, työ, virallinen, kuvata 
+ 	 Score: maailma, moni, tulla, työ, tuntea, pitää, vuosi 
