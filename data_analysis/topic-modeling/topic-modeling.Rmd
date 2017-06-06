@@ -5,7 +5,7 @@ date: "5/24/2017"
 output: html_document
 ---
 
-R script for building Structured Topic Model using data from YLE and HS web news archives. Datasets are not publicly available.
+R script for building Structured Topic Model using data from YLE and HS web news archives. Datasets are not publicly available. HTML version of this document including all graphics [is available on RPubs](http://rpubs.com/mjlassila/yle-hs-topic-modeling). [Source code](https://github.com/dhh17/media_and_politics/tree/master/data_analysis/topic-modeling) is also available.
 
 
 ```{r setup, include=FALSE,echo=FALSE}
