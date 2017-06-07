@@ -26,4 +26,4 @@ articles_per_author <- articles_per_author[substr(articles_per_author$author, 1,
 
 hist(articles_per_author$articles, breaks=max(articles_per_author$articles),
      main="Number of articles published by a single author\n(energy topics, Yle)",
-     xlab="number of articles", ylab="authors")
+     xlab="number of articles per author", ylab="authors")
